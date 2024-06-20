@@ -22,7 +22,7 @@
 
 
     <!-- Footer Start -->
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../includes/navbar.php"); ?>
     <!-- Footer End -->
 
     <!-- Hero Start -->
