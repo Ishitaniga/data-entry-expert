@@ -1,0 +1,154 @@
+.contact-button {
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 16px;
+    background-color: #1363c6;
+    color: white;
+    text-decoration: none;
+  }
+
+  .contact-button:hover {
+    background-color: #1363c6;
+  }
+
+  /* Responsive Styling */
+  @media screen and (max-width: 768px) {
+    .contact-button {
+      padding: 6px 12px;
+      font-size: 14px;
+    }
+  }
+
+  .custom-animated {
+    animation: custom-up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  img,
+  svg {
+    vertical-align: middle;
+  }
+
+  *,
+  ::after,
+  ::before {
+    box-sizing: border-box;
+  }
+
+  @keyframes custom-up-down {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(
+        -10px
+      ); /* Adjust the value to control the up-down distance */
+    }
+  }
+
+  /* this is for background color 
+        */
+  .bg-primary {
+    background-color: #003467 !important;
+  }
+  /* Now this is for the navbar css
+        */
+  .dropdown-menu {
+    min-width: 1040px;
+    max-width: 1200px; /* Ensure it doesn't go beyond screen width */
+    height: auto;
+    overflow-y: auto;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+    transition: all 0.3s ease-in-out;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+  }
+  .dropdown-menu.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    right: -10em;
+    left: unset;
+  }
+  .dropdown-item {
+    padding: 4px 50px;
+    align-items: left;
+    color: #23528b;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 10px;
+  }
+  .dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+    border-radius: 10px;
+  }
+  .submenu {
+    display: none;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    width: 100%;
+  }
+  .submenu.show {
+    display: block;
+  }
+  .submenu .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .submenu .col {
+    flex: 1;
+    min-width: 200px; /* Adjust as needed */
+  }
+  .navbar-nav .nav-item .nav-link {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(255, 255, 255);
+    transition: color 0.3s ease;
+  }
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+  }
+  .navbar-brand {
+    font-size: 20px;
+    font-weight: 700;
+    color: #23528b;
+  }
+  .navbar-toggler-icon {
+    color: #23528b;
+  }
+  @media (max-width: 767.98px) {
+    .dropdown-menu {
+      min-width: 100%;
+      height: auto;
+    }
+    .submenu {
+      position: static;
+      width: 100%;
+    }
+    .submenu .col {
+      min-width: 100%;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 1199.98px) {
+    .dropdown-menu {
+      min-width: 600px;
+      height: auto;
+    }
+    .submenu .col {
+      min-width: 200px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .dropdown-menu {
+      min-width: 1000px; /* Adjust to your preference, ensuring it doesn't exceed screen width */
+      height: 450px; /* Adjust height as needed */
+    }
+  }

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Allow: /public/
+Allow: /blog/
+
+# Allow all content for Googlebot
+User-agent: Googlebot
+Disallow:
+
+# Provide sitemap location
+Sitemap: https://www.example.com/sitemap.xml
