@@ -89,21 +89,7 @@
                         decision. Considering a data entry expert for your company's data is a
                         one-stop solution for an affordable accounting data entry service. </p>
 
-                    <p class="mb-4">It is the dream of a company to streamline the accounting data
-                        entry task along with other business proceedings. Therefore, updated data
-                        entry ensures the proper management of all the accounting information.
-                        Data entry expert holds the expertise to manage data in every field including
-                        bookkeeping. It is accustomed to the workflow and strategy to fetch the company's
-                        desired results and to serve your customers in a better way. Plus,
-                        it is a cost-effective data entry outsourcing with a diligent team with
-                        proficiencies like MS Word, MS Excel and Database as required by our client.
-                        Our team cannot only handle accounting data entry services in
-                        India rather they can handle data globally with Excel on plenty
-                        of data entry software available in the market, like Xero, NetSuite,
-                        QuickBooks, and much more. We can handle data from numerous fields
-                        like law firms, legal, real estate and chartered accountants.
-                        Our expert team of data entry boasts a quality of work to outsource
-                        accounting data entry services.</p>
+                    <p class="mb-4">It is the dream of a company to streamline the accounting data entry task along with other business proceedings. Therefore, updated data entry ensures the proper management of all the accounting information. Our data entry company holds the expertise to manage data in every field including bookkeeping. It is accustomed to the workflow and strategy to fetch the company's desired results and to serve your customers in a better way. Plus, it is a cost-effective data entry outsourcing with a diligent team with proficiencies like MS Word, MS Excel and Database as required by our client. Our team cannot only handle accounting data entry services in India rather they can handle data globally with Excel on plenty of data entry software available in the market, like Xero, NetSuite, QuickBooks, and much more. We can handle data from numerous fields like law firms, legal, real estate, and chartered accountants. Our expert team of data entry boasts a quality of work to outsource accounting data entry services.</p>
 
                 </div>
             </div>
@@ -190,13 +176,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                    <p class="mb-4">We work with you attentively to
-                        establish and manage workflow and bookkeeping data entry services.
-                        This data entry service in India is to incorporate all your business
-                        revenue and expense items. Based in India, our company is a top and
-                        reliable global outsourcing accounting data entry partner with the latest
-                        technology. At Data Entry Experts, we help you level up your business
-                        intelligence with account accuracy and insights! </p>
+                    <p class="mb-4">We work with you attentively to establish and manage workflow and bookkeeping data entry services. This data entry service in India is to incorporate all your business revenue and expense items. Based in India, our company is a top and reliable global outsourcing accounting data entry partner with the latest technology. At Data Entry Experts, we help you level up your business intelligence with account accuracy and insights!</p>
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
                         <li>It will also make you free from non-core business activities.</li><br>

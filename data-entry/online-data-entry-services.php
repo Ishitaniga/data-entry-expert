@@ -1,4 +1,4 @@
-<?php include '../includes/header_services.php' ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,18 +113,7 @@
               Raise your business with online data entry services
             </h1>
             <p class="mb-4">
-              To take your business data and products live on the internet
-              Online Data Entry Services are at their most basic level. Business
-              needs numerous kinds of word-driven online data entry including
-              customer support, invoicing, shipping and much more. In addition,
-              photos and videos might be used for media outlets and advertising
-              purposes. All such data needs to be indexed in proper fields and
-              converted into analysis-ready format. This not only requires data
-              entry speed but accuracy as well. An operator must have a deep
-              knowledge of spelling and punctuation and the ability to spot
-              errors fast. So, for data correctness and to make it flawless
-              outsourcing online data entry services is the best decision for a
-              business of every size.
+            We provide Online Data Entry Services for your business data and products at convenient rates. Business needs numerous kinds of word-driven online data entry including customer support, invoicing, shipping, and much more. In addition, photos and videos might be used for media outlets and advertising purposes. All such data needs to be indexed in proper fields and converted into analysis-ready format. This not only requires data entry speed but accuracy as well. An operator must have a deep knowledge of spelling and punctuation and the ability to spot errors fast. So, for data correctness and to make it flawless outsourcing online data entry services is the best decision for a business of every size.
             </p>
 
             <p class="mb-4">
@@ -259,9 +248,7 @@
 
             <h4 class="text-light mb-4">Online Content Conversion</h4>
             <p class="text-light mb-4">
-              Our skilled online data entry service providers are skilled in
-              converting online informative files to and from a variety of other
-              document formats.
+            Our online data entry service providers are skilled in converting online informative files to and from a variety of other document formats. 
             </p>
           </div>
         </div>
@@ -360,12 +347,7 @@
               Bug-Free Outsourcing Data Entry Services
             </h4>
             <p class="text-light mb-4">
-              We can provide highly accurate and web-based data entry services.
-              Our data entry operators power ourselves to handle the situation
-              of a serious commercial power failure. We use an array of backup
-              systems for all of your business data and enter it without any
-              error. Our online data entry error rate is less than 0.01 %, and
-              that’s our dignity.
+            We provide highly accurate and web-based data entry services. Our data entry operators can easily handle the situation of any serious commercial power failure. We use an array of backup systems for all of your business data and enter it without any error. Our online data entry error rate is less than 0.01 %, and that’s our dignity. 
             </p>
 
             <h4 class="text-white mb-4">Data Security</h4>

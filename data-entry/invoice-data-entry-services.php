@@ -117,7 +117,7 @@
             </p>
 
             <p class="mb-4">
-                The economy of a business is changing rapidly with new trends, strategies and technology. Businesses depend on individuals for certain tasks like invoice data entry in Excel which can be done with a data entry services company with the help of the latest technology. Every business process generates invoices but lacks invoice management. Invoice data entry services help to maintain firm records for future aspects. Plus, it also allows you to check your old vendor details while going through a bunch of invoice papers.
+            The invoice data entry company provides invoice entry details into an accounting system including the date of invoice generated, invoice number, vendor name, product no, phone number, payment, payment methods, and more. We are one of the best invoice data entry companies in India that gives wonderful service regardless of the firm's size. Our service is for various industries, including real estate, healthcare, manufacturing, retail, financial, and banking. It is beneficial to any organization to enhance data security and protect it from falling into the wrong hands. 
             </p>
           </div>
         </div>
@@ -179,7 +179,7 @@
             />
           </div>
           <div
-            class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn text-white
+            class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn custom-list mb-4 text-white
             data-wow-delay="0.5s"
           >
           <li>Sorting and indexing invoices - Our expert team quickly enters the data into the required format for further use. You can easily access the data when you need it in the future.</li>
@@ -196,7 +196,7 @@
           <br>
           <li>Bills data entry services - This is to enter all the bill transactions into the software or database so you can track it easily in the future when you require it.</li>
           <br>
-          <li>Customized invoice data entry services - Our invoice data entry in Excel is also customized and you can give your preferences and needs for invoice data entry services.</li>
+          <li>Customised invoice data entry services - Our invoice data entry in Excel is also customised and you can give your preferences and needs for invoice data entry services. </li>
           </div>
         </div>
       </div>
@@ -213,24 +213,24 @@
                 Data Entry Expert's Invoice Form Data Entry Process Flow
             </h1>
             <p class="mb-4">
-                We have online as well as offline invoice data entry options. Plus we can enter on virtual private networks (VPN). Our tried and tested invoice data entry services  workflow includes:
+                We have online as well as offline invoice data entry options. Plus, we can enter on virtual private networks (VPN). Our tried and tested invoice data entry services  workflow includes:
             </p>
            <ul class="custom-list mb-4">
-    <li>Defining invoice data entry requirements from the clients</li>
+    <li>Defining invoice data entry requirements from the clients.</li>
     <br>
     <li>Delivery of a trial project to establish quality standards if asked by the client.</li>
     <br>
-    <li>Next is to make service-level agreement terms such as pricing and scheduling with the client</li>
+    <li>Next is to make service-level agreement terms such as pricing and scheduling with the client.</li>
     <br>
-    <li>Appointment of a Project Manager and other employees for data task allocation</li>
+    <li>Appointment of a Project Manager and other employees for data task allocation.</li>
     <br>
-    <li>Invoice data entry execution after completion of data analysis and sorting</li>
+    <li>Invoice data entry execution after completion of data analysis and sorting.</li>
     <br>
-    <li>Ongoing quality check program to monitor invoice data entry accuracy</li>
+    <li>Ongoing quality check program to monitor invoice data entry accuracy.</li>
     <br>
-    <li>Make any required revisions if asked by a client</li>
+    <li>Make any required revisions if asked by a client.</li>
     <br>
-    <li>Final delivery of the data entry project via the specified method by the client</li>
+    <li>Final delivery of the data entry project via the specified method by the client.</li>
     <br>
 </ul>
 
@@ -310,9 +310,8 @@
               />
             </div>
             <div
-              class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn text-white
-              data-wow-delay="0.5s"
-            >
+              class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn text-white"
+              data-wow-delay="0.5s">
             <h4 class="text-white mb-4">
                 Benefits of Outsourcing invoice data entry services 
             </h4>
@@ -342,20 +341,20 @@
         <div class="container pt-5">
           <div class="row g-5">
             <div
-              class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn text-white"
-              data-wow-delay="0.3s"
+             class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn text-white custom-list mb-4"
+            data-wow-delay="0.3s"
             >
             
             <br>
-            <li>For reducing payment cycle times we use intelligent automation-backed techniques. It helps in quick sorting and scanning of invoices from different locations to enter easily.</li>
+            <li>To reduce payment cycle times, we use intelligent automation-backed techniques.It helps in quick sorting and scanning of invoices from different locations to enter easily. </li>
             <br>
-            <li>To make your operating cost less and to cut down your cost on physical invoice processing You must hire a data entry expert team to enhance your business productivity.</li>
+            <li>To make your operating cost less and to cut down your cost on physical invoice processing You must hire a data entry expert team to enhance your business productivity. </li>
             <br>
-            <li>The next benefit of outsourcing invoice data entry to our company is that you will get easy incorporation with your system. We have automation-backed techniques to standardize all invoices for easy integration. This is also essential for easy processing and effective output.</li>
+            <li>The next benefit of outsourcing invoice data entry to our company is that you will get easy incorporation with your system. We have automation-backed techniques to standardize all invoices for easy integration. This is also essential for easy processing and effective output. </li>
             <br>
             <li>Our company also helps to build market credibility with quick and error-free payments and approvals. Plus, there is no time lag when you outsource your work to us. It will increase your reputation with your vendors in the market.</li>
             <br>
-            <li>All in all, outsource your invoice data entry service with a data entry expert and enhance your business efficiency. We better understand the importance of time and accuracy invoice data entry service.</li>
+            <p>All in all, outsource your invoice data entry service with a data entry expert and enhance your business efficiency. We better understand the importance of time and accuracy invoice data entry service.</p>
               
                 <br />
               </ul>

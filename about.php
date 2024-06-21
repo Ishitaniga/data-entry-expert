@@ -171,12 +171,13 @@
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
                     <h1 class="text-white mb-4">Our Affordable Services</h1>
                     <ul class="mb-4 text-white">
-                        <li>Data entry and processing services</li>
-                        <li>Data conversion services</li>
-                        <li>Web research services</li>
-                        <li>OCR & OCR cleanup services</li>
-                        <li>Photo editing services</li>
-                        <li>Data collection and transcription services</li>
+                        <li>Data entry and processing services</li><br>
+
+                        <li>Data conversion services</li><br>
+                        <li>Web research services</li><br>
+                        <li>OCR & OCR cleanup services</li><br>
+                        <li>Photo editing services</li><br>
+                        <li>Data collection and transcription services</li><br>
                     </ul>
                     <br>
                 </div>
@@ -219,12 +220,13 @@
                         <li>Best Infrastructure - We have an ideal infrastructure equipped with advanced technical tools to provide the desired results with high-speed connectivity.</li><br>
                         <li>Firm Services and Relations - We strive to build profitable and long-term relationships with our clients utilizing highly developed technology and methodologies to give the best output at low pricing.</li><br>
                     </ul>
-                    <p class="text-white">We are the trusted outsourcing partner for your data entry services to accelerate your business!</p>
+                    <p class="text-dark">We are the trusted outsourcing partner for your data entry services to accelerate your business!</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
                         <img class="img-fluid" src="img/about-img.jpg">
                     </div>
+                </div>
                 </div>
             </div>
         </div>

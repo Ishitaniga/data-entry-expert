@@ -158,7 +158,7 @@
                         <li>Keywords and indexes are created by the catalog data entry team for a smooth procedure.</li><br>
                         <li>Categorise the products and indexing services according to keywords.</li><br>
                         <li>Quality check of catalogue data entry services. For any error or discrepancy, our team makes changes accordingly.</li><br>
-                        <li>•	After quality checks, we deliver the entire data entry project. For this, we use a client-designated method for their convenience.</li><br>
+                        <li>After quality checks, we deliver the entire data entry project. For this, we use a client-designated method for their convenience.</li><br>
                     </ul>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
