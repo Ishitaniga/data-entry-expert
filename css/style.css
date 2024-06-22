@@ -164,6 +164,13 @@ h6,
     background-size: cover;
 }
 
+.hero-main-header {
+    margin-top: -100px;
+    background: url(../img/bg-hero.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+
 .hero-header .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }

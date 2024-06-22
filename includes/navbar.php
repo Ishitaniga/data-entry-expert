@@ -18,25 +18,25 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-10 col-lg-4 custom-col pl-lg-0">
-                                        <a class="dropdown-item" href="#" data-target="#menu1">
+                                        <a class="dropdown-item" href="/data_entry_expert/data-entry.php" data-target="#menu1">
                                             <i class="bi bi-layout-text-window-reverse"></i> Data Entry
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu2">
+                                        <a class="dropdown-item" href="/data_entry_expert/data-processing.php" data-target="#menu2">
                                             <i class="bi bi-file-earmark-text"></i> Data Processing
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu3">
+                                        <a class="dropdown-item" href="/data_entry_expert/data-conversion.php" data-target="#menu3">
                                             <i class="bi bi-file-arrow-down"></i> Data Conversion
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu5">
+                                        <a class="dropdown-item" href="/data_entry_expert/data-collection.php" data-target="#menu5">
                                             <i class="bi bi-journal-text"></i> Data Collection
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu6">
+                                        <a class="dropdown-item" href="/data_entry_expert/typing.php" data-target="#menu6">
                                             <i class="bi bi-keyboard"></i> Typing
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu7">
+                                        <a class="dropdown-item" href="/data_entry_expert/transcription.php" data-target="#menu7">
                                             <i class="bi bi-file-play"></i> Transcription
                                         </a>
-                                        <a class="dropdown-item" href="#" data-target="#menu4">
+                                        <a class="dropdown-item" href="/data_entry_expert/web_research.php" data-target="#menu4">
                                             <i class="bi bi-globe"></i> Web Research
                                         </a>
                                         <hr />

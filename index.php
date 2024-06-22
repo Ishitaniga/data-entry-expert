@@ -12,7 +12,7 @@
     <body>
     <?php include("includes/navbar.php"); ?>
         <!-- Hero Start -->
-        <div class="container-fluid pt-5 bg-primary hero-header mb-5">
+        <div class="container-fluid pt-5 bg-primary hero-main-header mb-5">
             <div class="container pt-5">
                 <div class="row g-5 pt-5">
                     <div
@@ -48,11 +48,11 @@
                     </div>
                     <div class="col-lg-6 align-self-end text-center text-lg-end">
                         <!-- <img class="img-fluid" src="" alt="" /> -->
-                        <img
+                        <!-- <img
                             src="img/hero-img.png"
                             class="custom-animated img-fluid"
                             alt=""
-                            />
+                            /> -->
 
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                             >
                             <img
                                 class="img-fluid"
-                                src="img/working_image.jpg"
+                                src="img/make_your_business.jpg"
                                 alt="Working Image"
                                 />
                         </div>
@@ -176,7 +176,7 @@
                         <div class="about-img">
                             <img
                                 class="img-fluid"
-                                src="img/working_image.jpg"
+                                src="img/comprehensive.jpeg"
                                 alt="Working Image"
                                 />
                         </div>
@@ -268,7 +268,7 @@
                             >
                             <img
                                 class="img-fluid"
-                                src="img/working_image.jpg"
+                                src="img/03.png"
                                 alt="Working Image"
                                 />
                         </div>
@@ -287,8 +287,7 @@
                             'Trebuchet MS', sans-serif;
                             "
                             >
-                            Why Choose a Data Entry Expert Company For Data Entry In India and
-                            the US
+                            Why Choose a Data Entry Expert Company For Data Entry In India and the US
                         </h1>
                         <p
                             class="mb-4 text-dark"
@@ -372,7 +371,7 @@
                         <div class="about-img">
                             <img
                                 class="img-fluid"
-                                src="img/working_image.jpg"
+                                src="img/02.png"
                                 alt="Working Image"
                                 />
                         </div>
