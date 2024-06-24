@@ -116,7 +116,7 @@
             </p>
 
             <p class="mb-4">
-                As a leading document data entry service provider, we help enterprises in optimizing their Excel data entry services, word data entry services and PDF data entry services. We have experts to harness technology to elevate business productivity. Driven by our PDF to Word data entry services, Data Entry Expert has designed document data entry services to endorse precision, security, and efficiency throughout the data entry process. Outsourcing PDF data entry to our company in India is a big advantage for your business. To get a complete idea of how our document & PDF data entry services can enhance your endeavour competence, performance, forecasting, and long-term return on your investment. 
+                As a leading document data entry service provider, we help enterprises in optimizing their Excel data entry services, word data entry services and PDF data entry services. We have experts to harness technology to elevate business productivity. Driven by our PDF to Word data entry services, Data Entry Expert has designed document data entry services to endorse precision, security, and efficiency throughout the data entry process. Outsourcing PDF data entry to our company in India is a big advantage for your business. Our document & PDF data entry services can enhance your endeavour competence, performance, forecasting, and long-term return on your investment. 
             </p>
           </div>
         </div>
@@ -133,7 +133,7 @@
             data-wow-delay="0.3s"
           >
             <h1 class="text-white mb-4">
-                Effective Document Data Entry Services Provided By Data Entry Expert!!
+                Effective Document Data Entry Services Provided by Data Entry Expert!!
             </h1>
             <p class="mb-4 text-white">
                 When you outsource our data entry company for document data entry services then you will get numerous benefits from our skilled professionals. We have a global industry presence, new-age technology and substantial experience in improving your workflows and operational efficiency. Here are the best document data entry services you will get: 
@@ -388,7 +388,7 @@
               
               <h4 class="text-light mb-4">Customer Support</h4>
               <p class="text-light mb-4">
-                  This is a superb benefit to our clients that they are free to ask for any support from our customer care. Our executives are always ready to resolve any issue and add in service at times of emergency.
+                  This is a superb benefit to our clients that they are free to ask for any support from our customer care. Our executives are always ready to solve any issue and add in service at times of emergency.
               </p>
               
               <h4 class="text-light mb-4">Free Trial Run</h4>

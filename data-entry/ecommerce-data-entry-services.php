@@ -115,7 +115,7 @@
               Data Entry Expert is proudly and diligently serving its data entry
               services to global clients. With its reliable and thriving
               deliveries, it has become one of the top multi-process data entry
-              service companies. Among all other data entry services Ecommerce
+              service companies in India. Among all other data entry services Ecommerce
               data entry is a manual process of entering your details including
               product title, description and images on your ecommerce website.
               In addition, complete data entry for eCommerce websites and online
@@ -353,9 +353,7 @@
               steps our data entry company follows to complete e-commerce data
               entry services:
             </p>
-            <h3 class="text-white mb-4">
-              Our Comprehensive Amazon Product Data Entry Services
-            </h3>
+             
             <ul class="text-white custom-list mb-4">
               <li>
                 <u>Consulting</u> - This is the first step where our experts
@@ -447,7 +445,7 @@
                 </li>
                 <br />
                 <li>
-                    <u>Customer Support</u> - Our service is never finished with the client and their suggestions are always welcome to make e-commerce data entry supportive and productive. You can ask for any changes and our cooperative staff will make changes accordingly.
+                    <u>Customer Support</u> - Client’s suggestions are always welcome to make e-commerce data entry supportive and productive. You can ask for any changes and our cooperative staff will make changes accordingly. 
                 </li>
                 <br />
                 <li>
@@ -455,7 +453,7 @@
                 </li>
                 <br />
                 <li>
-                    <u>Contact Us Today</u> - Contact us today for a no-obligation consultation and start by doing what is necessary to enhance your business productivity and sales!
+                    <u> </u> Contact us today for a no-obligation consultation and start by doing what is necessary to enhance your business productivity and sales!!
                 </li>
                 <br />
             </ul>

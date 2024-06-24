@@ -4,9 +4,9 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Outsource Image Data Entry Services in India - Data Entry Expert";
+        $page_keywords = "affordable Image Data Entry Services,Outsource Image Data Entry services,Image Data Entry Service Provider,Image Data Entry Company,Image Data Entry Services in India,Best Image Data Entry Services,image to text data entry,image to notepad data entry,image to word data entry,Image data entry company in india, Image data entry agency,outsource Image data entry in india,Image data entry, outsourcing Image data entry,Image data entry service, Image receivable data entry, Image payable data entry,Best Image Data Entry Services,image to text data entry,";
+        $page_description = "We offer image data entry services for image payable, image receivable, image to text or image to notepad, image to excel data entry from image data tagging to image data extraction.";
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
