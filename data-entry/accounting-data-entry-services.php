@@ -4,9 +4,9 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Accounting and Bookkeeping Data Entry Services in India";
+        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
+        $page_description = "We are the best accounting data entry service provider for recording every monetary transaction for ledger maintenance. Outsource bookkeeping data entry services to us for vigorous database creation.";
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -104,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why choose to Outsource Accounting and Bookkeeping Data Entry Services ?</h1>
+                    <h1 class="text-white mb-4">Why Choose to Outsource Accounting and Bookkeeping Data Entry Services ?</h1>
                     <p class="text-light mb-4">Recording all accounting data entry tasks of a company like all revenue
                         and expenses to stay on top of your business’s financial health is essential to stand
                         in the global market. A business concern must keep track of cash flow, that is where your
@@ -202,7 +202,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">The process we follow for accounting and bookkeeping data entry service</h1>
+                    <h1 class="text-white mb-4">The Process We Follow For Accounting and Bookkeeping Data Entry Service</h1>
                     <p class="text-light mb-4">Data Entry Expert is a globally recommended and ISO
                         9001:2015 certified outsourcing data entry service company offering
                         revolutionary accounting data entry solutions all through the world
@@ -275,7 +275,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1>
-                        Benefits of outsourcing accounting data entry services to Data Entry Experts in India</h1>
+                    Benefits Of Outsourcing Accounting Data Entry Services to Data Entry Experts in India</h1>
                     <p class="mb-4">Accounting documents and bookkeeping require accurate and
                         precise data entry records to get the maximum return on your investment.
                         Accounting is the only part of the business to track income and expenditures,
