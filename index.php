@@ -4,17 +4,18 @@
 <head>
     <meta charset="utf-8" />
     <?php
-    $page_title = "Data Entry Expert";
-    $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-    $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+    $page_title = "Data Entry Expert in India |Data entry specialist |data entry operators ";
+    $page_keywords = "Data entry outsourcing, Data entry specialist ,Data entry expert, data entry operators ,Data entry specialist, data entry operators, Data entry clerk, data entry operator company, data entry operator in India, data entry operator India, expert data entry, professional data entry specialist, Data entry expert , data entry operator,expert data entry, professional data entry specialist, Data entry expert, data entry specialist, data entry operator,";
+    $page_description = "Our Data entry specialist offers precise and affordable data entry services for enhancing business productivity. Our experts ensure seamless data entry solutions meeting all of your business needs.";
     ?>
     <?php include("includes/header.php"); ?>
     <style>
-.custom-word-spacing {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    word-spacing: 0.0em; /* Adjust this value as needed */
-}
-</style>
+        .custom-word-spacing {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            word-spacing: 0.0em;
+            /* Adjust this value as needed */
+        }
+    </style>
 </head>
 
 <body>
@@ -39,14 +40,9 @@
                     <a href="" class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-lg-end">
-                    <!-- <img class="img-fluid" src="" alt="" /> -->
-                    <!-- <img
-                            src="img/hero-img.png"
-                            class="custom-animated img-fluid"
-                            alt=""
-                            /> -->
+                    <!-- *********** Here  animated image  ************ -->
 
-                </div>
+                </div>  
             </div>
         </div>
     </div>
@@ -79,7 +75,7 @@
                     <div class="about-img wow animate__animated animate__fadeInRight" data-wow-delay="0.5s">
                         <img class="img-fluid" src="img/make_your_business.jpg" alt="Working Image" />
                     </div>
-                    <br/><br/>
+                    <br /><br />
                 </div>
                 <!-- Left Text -->
                 <div class="col-lg-6 wow animate__animated animate__slideInLeft" data-wow-delay="0.5s">
@@ -108,7 +104,7 @@
                 </div>
                 <!-- Right Text -->
                 <div class="col-lg-6 wow animate__animated animate__slideInRight" data-wow-delay="0.5s">
-                <h1 class="mb-4 text-dark" style="
+                    <h1 class="mb-4 text-dark" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
@@ -139,13 +135,13 @@
 
             <div class="row g-5 hero-header ">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow animate__animated animate__fadeInLeft" data-wow-delay="0.3s">
-                <h1 class="mb-4 text-white" style="
+                    <h1 class="mb-4 text-white" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Our dedicated outsource <br> services include
                     </h1>
-                   
+
                     <ul class="custom-list mb-4 text-white" style="
                             text-align: justify;
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
@@ -204,14 +200,14 @@
                 <!-- Left Text -->
                 <div class="col-lg-6 wow animate__animated animate__slideInLeft" data-wow-delay="0.5s">
                     <br /><br />
-                    
+
                     <h1 class="mb-4 text-dark" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Why Choose Data Entry Expert<br>Company For Data Entry India
                     </h1>
-                    
+
                     <p class="mb-4 text-dark" style="
                             text-align: justify;
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
@@ -283,8 +279,8 @@
 
 
 
- <!-- Service Start -->
- <div class="container-fluid bg-light mt-5 py-5">
+    <!-- Service Start -->
+    <div class="container-fluid bg-light mt-5 py-5">
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
@@ -298,87 +294,87 @@
 
 
                 <div class="col-lg-7">
-    <div class="row g-4">
-        <div class="col-md-6">
-            <div class="row g-4">
-                <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-keyboard fa-2x"></i>
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <div class="row g-4">
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-keyboard fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Data entry services</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-cogs fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Data processing</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-exchange-alt fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Data conversion</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-search fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Web research</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <h5 class="mb-3">Data entry services</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                        <div class="col-md-6 pt-md-4">
+                            <div class="row g-4">
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-database fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Data collection</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-keyboard fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Typing services</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
+                                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                                        <div class="service-icon btn-square">
+                                            <i class="fa fa-microphone fa-2x"></i>
+                                        </div>
+                                        <h5 class="mb-3">Transcription services</h5>
+                                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-cogs fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Data processing</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-exchange-alt fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Data conversion</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-search fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Web research</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6 pt-md-4">
-            <div class="row g-4">
-                <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-database fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Data collection</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-keyboard fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Typing services</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-                        <div class="service-icon btn-square">
-                            <i class="fa fa-microphone fa-2x"></i>
-                        </div>
-                        <h5 class="mb-3">Transcription services</h5>
-                        <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        <a class="btn px-3 mt-auto mx-auto" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
@@ -387,46 +383,32 @@
     </div>
     <!-- Service End -->
 
+    <!-- We offer -->
+    <div class="container-fluid bg-light py-5">
+        <div class="container py-5">
+            <div class="mx-auto text-center wow animate__animated animate__slideInLeft" data-wow-delay="0.1s" style="max-width: 100%; overflow: hidden;">
+                <h1 class="mb-4 text-dark" style="
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: inline-block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    ">
+                    We offer a specialized data entry service along with plenty of <br>data conversion solutions
+                </h1>
+            </div>
 
 
-    <!-- About 2 End -->
-    <div class="container-fluid">
-        <div class="container">
             <div class="row g-5 align-items-center">
-                <!-- Left Image -->
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="about-img wow animate__animated animate__fadeInRight" data-wow-delay="0.5s">
-                        <img class="img-fluid" src="img/working_image.jpg" alt="Working Image" />
-                    </div>
-                    <br /><br />
-                </div>
-                <!-- Left Text -->
-                <div class="col-lg-6 wow animate__animated animate__slideInLeft" data-wow-delay="0.5s">
-                    <h1 class="mb-4 text-dark" style="
-                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
-                            'Trebuchet MS', sans-serif;
-                            ">
-                        Key service segments of our company!!
-                    </h1>
-                    <ul class="text-dark custom-list mb-4">
-                        <li>Data entry services</li>
-                        <li>Data processing services</li>
-                        <li>Data conversion services</li>
-                        <li>Web data extraction</li>
-                        <li>Mortgage data entry</li>
-                        <li>Web research</li>
-                        <li>Image scanning and OCR</li>
-                    </ul>
-                </div>
                 <!-- Right Text -->
-                <div class="col-lg-6 wow animate__animated animate__slideInRight" data-wow-delay="0.5s">
-                    <h1 class="mb-4 text-dark" style="
-                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
-                            'Trebuchet MS', sans-serif;
-                            ">
+                <div class="col-lg-6 wow animate__animated animate__slideInUp" data-wow-delay="0.5s">
+                    <!-- <h1 class="mb-4 text-dark" style="
+                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                        'Trebuchet MS', sans-serif;
+                        ">
                         We offer a specialized data entry service along with plenty of
                         data conversion solutions
-                    </h1>
+                    </h1> -->
                     <ul class="text-dark custom-list mb-4">
                         <li>100% transparency in every single data entry project</li>
                         <li>
@@ -437,7 +419,7 @@
                             Delivering the project in the least possible turnaround time
                             while providing elite data entry work
                         </li>
-                        <br />
+                        
                         <li>Helpful in saving business costs around 65-75%</li>
                         <li>
                             Clientele will get multiple discounts for your various data
@@ -453,15 +435,26 @@
                         Contact us today to learn how our data entry company can transform your data management challenges into business growth opportunities. Come and partner with us to harness the full potential of your business data. Whether you're running a small, medium or large enterprise, we are always committed to leveraging your data for success.
                     </p>
                 </div>
+
                 <!-- Right Image -->
                 <div class="col-lg-6 wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/working_image.jpg" alt="Working Image" />
+                        <img class="img-fluid" src="img/working_image.png" alt="Working Image" />
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
+    <!-- We offer -->
+
+
+    <!-- About 2 End -->
+    <!-- <div class="container-fluid">
+        <div class="container">
+           
+        </div>
+    </div> -->
     <!-- Feature Start 2-->
     <div class="container-fluid bg-primary feature pt-5">
         <div class="container pt-5">
@@ -536,9 +529,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
+                <!-- <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
                     <img class="img-fluid" src="img/skills.png" alt="" />
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
