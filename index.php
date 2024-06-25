@@ -669,7 +669,7 @@
                             </h2>
                             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionFAQ2">
                                 <div class="accordion-body">
-                                    Our data entry expert company in India works from Monday to Saturday 07:00 AM (Morning) IST to 11:30 AM (Night) IST. Plus, we also work on Sundays in case of clients' emergency work conditions.
+                                Our data entry expert company in India works from Monday to Saturday 07:00 AM (Morning) IST to 11:30 PM (Night) IST.
                                 </div>
                             </div>
                         </div>

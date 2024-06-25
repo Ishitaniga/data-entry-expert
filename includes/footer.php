@@ -5,7 +5,7 @@
                     <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
                         <a href="index.html" class="d-inline-block mb-3">
                         <img
-                            src="/data_entry_expert/img/logo-dark.png"
+                            src="https://www.dataentryexpert.com/img/logo-dark.png"
                             alt="DEE-LOGO"
                             class="img-fluid"
                             style="width: 150px; height: 125px"
@@ -125,14 +125,14 @@
         <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="/data_entry_expert/lib/wow/wow.min.js"></script>
-        <script src="/data_entry_expert/lib/easing/easing.min.js"></script>
-        <script src="/data_entry_expert/lib/waypoints/waypoints.min.js"></script>
-        <script src="/data_entry_expert/lib/counterup/counterup.min.js"></script>
-        <script src="/data_entry_expert/lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="https://www.dataentryexpert.com/lib/wow/wow.min.js"></script>
+        <script src="https://www.dataentryexpert.com/lib/easing/easing.min.js"></script>
+        <script src="https://www.dataentryexpert.com/lib/waypoints/waypoints.min.js"></script>
+        <script src="https://www.dataentryexpert.com/lib/counterup/counterup.min.js"></script>
+        <script src="https://www.dataentryexpert.com/lib/owlcarousel/owl.carousel.min.js"></script>
         <!-- Template Javascript -->
-        <script src="/data_entry_expert/js/main.js"></script>
-        <script scr="/data_entry_expert/js/navbar.js"></script>
+        <script src="https://www.dataentryexpert.com/js/main.js"></script>
+        <script scr="https://www.dataentryexpert.com/js/navbar.js"></script>
         <!-- 
             Now this script is for the navbar  -->
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>

@@ -10,4 +10,4 @@ User-agent: Googlebot
 Disallow:
 
 # Provide sitemap location
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://www.dataentryexpert.com/sitemap.xml
