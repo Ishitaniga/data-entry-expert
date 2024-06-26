@@ -49,6 +49,7 @@
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/amazon-data-entry-services.php">Amazon Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/catalog-data-entry-services.php">Catalog Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/copy-paste-data-entry-services.php">Copy Paste Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/document-data-entry-services.php">Copy Paste Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/ebook-data-entry-services.php">eBook Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/ecommerce-data-entry-services.php">Ecommerce Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/handwritten-data-entry-services.php">Handwritten Data Entry Services</a>
