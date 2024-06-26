@@ -1,8 +1,8 @@
 <head>
 <?php 
         $page_title = "About Us";
-        $page_keywords = "home, data entry, services";
         $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_keywords = "home, data entry, services";
         ?>
     <?php include("includes/header.php"); ?>
     <style>

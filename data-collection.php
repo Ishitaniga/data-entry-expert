@@ -6,8 +6,9 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <?php
   $page_title = "Data Collection";
-  $page_keywords = "home, data entry, services";
+  
   $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+  $page_keywords = "home, data entry, services";
   ?>
   <?php include("includes/header.php"); ?>
 

@@ -5,8 +5,9 @@
     <meta charset="utf-8" />
     <?php
     $page_title = "Data Entry Expert in India |Data entry specialist |data entry operators ";
-    $page_keywords = "Data entry outsourcing, Data entry specialist ,Data entry expert, data entry operators ,Data entry specialist, data entry operators, Data entry clerk, data entry operator company, data entry operator in India, data entry operator India, expert data entry, professional data entry specialist, Data entry expert , data entry operator,expert data entry, professional data entry specialist, Data entry expert, data entry specialist, data entry operator,";
+    
     $page_description = "Our Data entry specialist offers precise and affordable data entry services for enhancing business productivity. Our experts ensure seamless data entry solutions meeting all of your business needs.";
+    $page_keywords = "Data entry outsourcing, Data entry specialist ,Data entry expert, data entry operators ,Data entry specialist, data entry operators, Data entry clerk, data entry operator company, data entry operator in India, data entry operator India, expert data entry, professional data entry specialist, Data entry expert , data entry operator,expert data entry, professional data entry specialist, Data entry expert, data entry specialist, data entry operator,";
     ?>
     <?php include("includes/header.php"); ?>
     <style>

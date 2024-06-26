@@ -50,18 +50,22 @@
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/catalog-data-entry-services.php">Catalog Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/copy-paste-data-entry-services.php">Copy Paste Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/document-data-entry-services.php">Document Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/eBay-product-data-entry-services.php">eBay Product Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/ebook-data-entry-services.php">eBook Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/ecommerce-data-entry-services.php">Ecommerce Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/handwritten-data-entry-services.php">Handwritten Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/healthcare-data-entry-services.php">Healthcare Data Entry Services</a>
-                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/outsource-image-data-entry-services.php">Image Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/insurance-claim-data-entry-services.php">Insurance Claim Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/invoice-data-entry-services.php">Invoice Data Entry Services</a>
-                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/online-data-entry-services.php">Online data entry services</a>
-                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/quickbooks-data-entry-services.php">QuickBooks Data Entry Services</a>
-                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/pdf-to-document-data-entry-services.php">PDF Data Entry Services</a>
-                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/healthcare-data-entry-services.php">Healthcare Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/medical-data-entry-services.php">Medical Data Entry Services</a>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-6">
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/offline-data-entry-services.php">Offline Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/online-data-entry-services.php">Online Data Entry Services</a> 
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/outsource-image-data-entry-services.php">Image Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/pdf-to-document-data-entry-services.php">PDF Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/quickbooks-data-entry-services.php">QuickBooks Data Entry Services</a>
+                                                    <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/virtual-data-entry-services.php">Virtual Data Entry Services</a>
                                                     <a class="dropdown-item" href="https://www.dataentryexpert.com/data-entry/xero-accounting-data-entry-services.php">Xero Accounting Data Entry Services</a>
                                                 </div>
                                             </div>
