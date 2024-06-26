@@ -94,93 +94,27 @@
     <!-- About End -->
 
 
-    <!-- Feature Start -->
-    <div class="container-fluid bg-primary feature pt-5">
-        <div class="container pt-5">
-            <div class="row g-5">
-                <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
-                    <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Features and Services you Avail with Our ebay Data Entry
-         Service Company!!
-</h1>
-                    <p class="text-light mb-4">Our eBay product data entry company is equipped with talented and highly skilled workers to proffer proficient and efficient eBay product data entry services for your store. Here is the list of services we offer to our clients:
-	
-    </p>
-
-
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Income Statements </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Accounting data entry services </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Financial risk alleviation </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Accounts receivable and accounts payable data entry </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Auditing data entry reports </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Manual Journal data entry </span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Procure to pay including invoices and inventory bills </span>
-                    </div>
-
-                </div>
-                <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Feature End -->
-
+     
     <!-- About 2 Start  -->
     <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                    <p class="mb-4">We work with you attentively to establish and manage workflow and bookkeeping data entry services. This data entry service in India is to incorporate all your business revenue and expense items. Based in India, our company is a top and reliable global outsourcing accounting data entry partner with the latest technology. At Data Entry Experts, we help you level up your business intelligence with account accuracy and insights!</p>
+                     <h1  class="mb-4">Features and Services you Avail with Our ebay Data Entry Service Company!!</h1>
+                    <p class="mb-4">Our eBay product data entry company is equipped with talented and highly skilled workers to proffer proficient and efficient eBay product data entry services for your store. Here is the list of services we offer to our clients:</p>
+
+                    <h4 class="mb-4">Creating A Title And Description For Your eBay Items</h4>
+                    <p class="mb-4">Product listing with proper description is the best way to inform and excite your online buyers. We write attractive titles and descriptions that provide a clear picture of your eBay product in the store. This is essential to grab the attention of your potential customers. Plus, with the best eBay listing service, you can also increase the discoverability of your products and can also place a striking bid for selling your item. Our professionals use specifics in your product descriptions:  </p>
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
-                        <li>It will also make you free from non-core business activities.</li><br>
-                        <li>Outsourcing data entry services will also keep you updated in the technology field.</li><br>
-                        <li>In India, there is a large pool of bookkeeping data entry services provided and you can hire the best accounting data entry company for your bookkeeping data entry work.</li><br>
-                        <li>When you outsource accounting data entry services, you can ensure the security and you need not invest in-house for data entry.</li><br>
+                        <li>	Size, color, shape, product age, manufacturing date and related information, and some other notable features, etc.</li><br>
+                        <li>	Condition of the selling item such as new, recycled, under warranty, etc.</li><br>
+                        <li>	Packaging type and the list of included eBay products with accessories</li><br>
+                        <li>	Product-related content keyword so your customer can find it easily at your store.</li><br>
                     </ul>
                     </p>
+                    <p class="mb-4">Besides ensuring correct grammar and spelling, we also add some creative human approaches to your product description to make it more interesting and easily readable. </p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
@@ -198,22 +132,21 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">The Process We Follow For Accounting and Bookkeeping Data Entry Service</h1>
-                    <p class="text-light mb-4">Data Entry Expert is a globally recommended and ISO
-                        9001:2015 certified outsourcing data entry service company offering
-                        revolutionary accounting data entry solutions all through the world
-                        at the most affordable prices. As a result, we gardened global clients
-                        from the UK, USA, Canada, UAE, Australia, and other European countries
-                        as well. Our accounting and Bookkeeping data entry service process includes
-                        certain steps: </p>
+                    <h1 class="text-white mb-4">Product Uploading with Adding Product Images to your eBay product listings</h1>
+                    <p class="text-light mb-4">We also offer manual uploading of products, if required ensuring full eBay guidelines to compiled with. Plus, adding pictures to your product listing not only gives a more precise idea to your buyers but also distinguishes your listing from other competitors.  Our eBay product upload services in India with images help you increase sales and return on investment. We add the gallery picture and other product-related images with eBay guidelines for image drafting while uploading your products to the store. You have the flexibility to ask for adding watermarks, editing, and cropping to your product photos.  </p>
 
 
-                    <h4 class="text-white mb-4">Data Collection</h4>
-                    <p class="text-light mb-4">The first step is the collection of data for accounting
-                        data entry services. Then our trained team decides the appropriate
-                        tool to handle specified data and perform top-quality accounting and
-                        bookkeeping data entry work. </p>
+                    <h4 class="text-white mb-4"> Pricing Update for Your Item</h4>
+                    <p class="text-light mb-4"> Pricing of items may vary according to the product specifications. Our eBay data entry service provider updates the pricing for your items when required with support in planning your pricing strategy. In case of any doubt, we research to assist you in deciding the pricing for the auction-style listings, item starting price, multiple eBay item listing price, identifying a reserve price, fixed-price listings, etc. </p>
 
+                    <h4 class="text-white mb-4">eBay Bulk Listing Services </h4>
+                    <p class="text-light mb-4">We also offer eBay bulk upload service to help sellers manage their product volumes to the eBay catalogues. For eBay product upload services, we use the following tools:  </p>
+                     <UL class=" text-light custom-list mb-4">
+                        <li>eBay Turbo Lister</li>
+                        <li>	eBay Blackthorne</li>
+                        <li>	Auctiva</li>
+                        <li>Online Channel Advisor</li>
+                    </UL>
 
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
@@ -232,27 +165,30 @@
                     <img class="img-fluid" src="../img/feature.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
+                    <h1 class="text-white mb-4" >Our eBay Product Data Entry Service Process</h1>
 
-                    <h4 class="text-white mb-4">Data Entry Process</h4>
-                    <p class="text-light mb-4">The second step is to process the
-                        collected data that is to organise similar data according
-                        to the requirements. Data Entry Expert is the best-outsourced
-                        bookkeeping data entry company to manage your sensitive data to
-                        enhance your business performance. </p>
+                    <h4 class="text-white mb-4">Initial Consultation with Client</h4>
+                    <p class="text-light mb-4">First, our expert operators conduct an initial consultation with clients to understand their outsourcing eBay listing requirements, aims, and expectations. </p>
 
-                    <h4 class="text-white mb-4">Quality Check</h4>
-                    <p class="text-light mb-4">The next step in the accounting
-                        data entry service is to check the data for quality.
-                        Our expert quality checkers are experienced enough
-                        to provide you with error-free and affordable bookkeeping
-                        data entry services to stay competitive in the market. </p>
+                    <h4 class="text-white mb-4">Data Collection </h4>
+                    <p class="text-light mb-4">In the next step, our company collects product information such as product titles, descriptions, attributes, and product images to start the data entry process.  </p>
 
-                    <h4 class="text-white mb-4">Feedback</h4>
-                    <p class="text-light mb-4">Client feedback is significantly
-                        important to enhance the complete accounting data entry process.
-                        Client's suggestions are always welcome to improve our accounting
-                        and bookkeeping data entry services. We try our best to employ
-                        the valuable suggestions. </p>
+                    <h4 class="text-white mb-4">eBay Data Formatting</h4>
+                    <p class="text-light mb-4">Next, the team members format the collected data according to eBay's product data entry guidelines and standards. Doing this we always make sure the data is fulfilled and consistent. </p>
+
+                    <h4 class="text-white mb-4">	Create an eBay Product Listing</h4>
+                    <p class="text-light mb-4">This is the crucial step to creating eBay product listings on the eBay store. In this process, we input the formatted data ensuring accuracy and entirety. </p>
+
+
+                    <h4 class="text-white mb-4">eBay Items Listing Optimization</h4>
+                    <p class="text-light mb-4">Further, we optimize product listings with relevant keywords and attractive titles with detailed descriptions. </p>
+
+                    <h4 class="text-white mb-4">Quality Assurance</h4>
+                    <p class="text-light mb-4">Quality check is the most important step of the complete process to create a listing error-free with adherence to eBay's policies. </p>
+
+                    <h4 class="text-white mb-4">	Final Delivery</h4>
+                    <p class="text-light mb-4">After checking the completeness and bugs of the eBay data entry, we ask the client to access their store. Your suggestions are always welcome.  </p>
+
 
                 </div>
             </div>
@@ -271,79 +207,35 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1>
-                    Benefits Of Outsourcing Accounting Data Entry Services to Data Entry Experts in India</h1>
-                    <p class="mb-4">Accounting documents and bookkeeping require accurate and
-                        precise data entry records to get the maximum return on your investment.
-                        Accounting is the only part of the business to track income and expenditures,
-                        ROI, and quantitative financial information. In addition, bookkeeping is an
-                        assistance to keep complete financial transaction records and updates them
-                        periodically. All in all, outsourcing accounting and bookkeeping data entry
-                        services to Data Entry Experts is beneficial for your. </p>
+                    Benefits of Selecting a Data Entry Expert for Outsourcing ebay Listing!!</h1>
+                    <p class="mb-4"> eBay product listing service is significant for improving the visibility of your products on eBay. Here are some other benefits you will see while trying with us:</p>
+                    <h4 class="mb-4">Enhance Your Brand Visibility on the eBay platform</h4>
+                    <p class="mb-4">Increasing your brand visibility is vital to get a strong customer base and to take your eBay business to new heights. So, when you tie up with our eBay data entry service you can take your eBay marketplace at a global level. Our experts create high-quality eBay product listings with SEO-friendly product content to become popular in the market in the minimum possible time. </p>
 
-                    <h4 class="mb-4">Tailored solutions</h4>
-                    <p class="mb-4">The first step is the collection of data for accounting
-                        data entry services. Then our trained team decides the appropriate
-                        tool to handle specified data and perform top-quality accounting and
-                        bookkeeping data entry work. </p>
+                    <h4 class="mb-4">Drive More Targeted Audience </h4>
+                    <p class="mb-4"> Our data entry company is to help clients to increase their market presence globally. In this way, they can drive more targeted and relevant customers to their eBay store.  </p>
 
-                    <h4 class="mb-4">Accounting Data Entry Quality</h4>
-                    <p class="mb-4">Our devoted team of competent data entry experts
-                        follows a thorough quality checking process to provide an average
-                        98% accuracy result to clients. We always ensure that all your
-                        company’s accounting information is accurately and securely keyed
-                        into the system without leaving any room for mistakes. To meet such
-                        requirements, our data entry expert team is being trained to work
-                        on numerous accounting software for data security. Plus, our company
-                        heads are always curious to know about more advanced technology so the
-                        company can adapt it for more data quality checks. </p>
+                    <h4 class="mb-4">Cost-Efficient Marketing </h4>
+                    <p class="mb-4">  	Data entry experts offer affordable eBay product listing services so that you will be able to market and advertise your product for online buyers. This will ultimately be a helping hand to reach your potential customers globally and convert them into regular ones. </p>
 
-                    <h4 class="mb-4">Protected data entry servers</h4>
-                    <p class="mb-4">The FTP servers that our
-                        company use to transfer your important accounting documents are safe.
-                        Moreover, to safeguard your legal documents for bookkeeping data entry
-                        service, we use utmost safety measures such as firewalls and antivirus. </p>
+                    <h4 class="mb-4">Back Office Customer Support </h4>
+                    <p class="mb-4">Things at the backend are equally important for customer satisfaction. They can benefit a lot from our back-office support with live chat and email service. We always ensure the perfect solution to your query.   </p>
 
+                    <h4 class="mb-4">	Quick Turnaround time </h4>
+                    <p class="mb-4"> This is one of the best things about our eBay product data entry service in India you will get your project done in the specified time. Plus, we set delivery time depending upon the project size and the business requirement. </p>
 
+                     
+                    <h4 class="mb-4">Free Trial Run</h4>
+                    <p class="mb-4">	You can also book a free trial before submitting your complete project details to our data entry company. This way you can check our trustworthiness and we can also know your expectations. Collaborating with our eBay data entry company in India is the one-stop chance to create premium eBay listings for your store.</p>
+                   
+                     <p class="mb-4" >Grab our premium eBay product data entry service to display your products on the eBay store in a professional way!! Stand apart in the market competition and draw the attention of the target audience. </p>
                 </div>
             </div>
         </div>
     </div>
     <!-- About End 3 -->
 
-    <!-- About 4 Start  -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h4 class="mb-4">Fast turnaround time</h4>
-                    <p class="mb-4">Partnering with a Data Entry Expert
-                        to outsource a data entry service means that you can
-                        get well-timed services ensuring the accurate and timely
-                        delivery of your accounting data. Our skilled workforce
-                        always tries to deliver data entry service results ahead
-                        of the stipulated deadline. </p>
-
-                    <h4 class="mb-4">Very affordable prices</h4>
-                    <p class="mb-4">We offer incredibly affordable accounting and bookkeeping data entry services. Our services are quite convenient, that allows you to save notably on company’s budget. </p>
-
-                    <h4 class="mb-4">Customer Support</h4>
-                    <p class="mb-4">Our team is always available to solve any of your doubt and queries regarding accounting and bookkeeping data entry service. Your query will be resolved by our customer support team efficiently.
-                        You are also free to try out our free trial run before you outsource our company for an accounting data entry service. This free trial is an opportunity for us to demonstrate how we will complete your project competently with the desired outcomes.
-                        What are you waiting for?
-                        <br><br>
-                        <a class="text-primary" href="../contact.html">Contact us today </a>for more information and board with us for outsourcing accounting data entry services!
-                    </p>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About 4 End -->
-
+    
 
     <!-- Footer Start -->
     <?php include("../includes/footer.php"); ?>

@@ -341,43 +341,49 @@
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">	Our data entry company possesses the latest equipment for offering efficient data entry with consistent outputs.</li>
                          
                     </ul> </p>
 
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">We believe in smart work and advanced technology to make your company stand apart in the global market. </li>
                          
                     </ul> </p>
 
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">	Modified insurance claims data entry services to offer high competence and to save your time and money. </li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">We take your insurance data as our responsibility and keep it with high confidence and security at our company. </li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">	Our company in India possesses the latest infrastructure and trustworthy internet connectivity with high-configurative data entry systems. </li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">	Our customer service is ready to answer any query regarding our insurance data entry services.</li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">	We have the provision of an electronic representation of a unique insurance claim document or report</li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">We offer free trial runs for our services to clients so they understand the concept. This is also required for us to recognize your business requirements. </li>
                          
                     </ul> </p>
                     <p class="mb-4"><ul class="custom-list mb-4">
-                        <li class=" mb-4">98% accuracy in insurance data entry with the use of OCR and ICR technology</li>
+                        <li class=" mb-4">Incredible medical insurance data entry services for asserting the reimbursement presented by the different insurance companies.  </li>
                          
                     </ul> </p>
+
+                    <p class="mb-4"><ul class="custom-list mb-4">
+                        <li class=" mb-4">We execute a heavy diversity of insurance data entry services in various languages - English, Dutch, German, French, Spanish, Italian, and many more. Our company is known as a bilingual data entry operator.</li>
+                         
+                    </ul> </p>
+                    <p  class="mb-4">Data entry experts serve insurance claim data entry to insurance agencies, diverse business processes, or associations all over the world.</p>
 
                     
                 </div>

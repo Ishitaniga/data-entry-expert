@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Data entry expert- eBook Data Entry Services</h1><br>
+                    <h1>Data Entry Expert- eBook Data Entry Services</h1><br>
                     <p class="mb-4">Data entry expert is a name in the global outsourcing perfect eBook data entry services. Many organizations are adopting the facility of eBook data entry services. This becomes essential for managing the reports, guides, or publications effectively.</p>
                     <p class="mb-4">
                     We have an expert team of skilled data entry operators who are well-informed about the conversion of the book from electronic and printed formats. We can convert your printed format into an eBook irrespective of the language. Our data entry experts are specialized in the conversion of several formats including written documents, brochures, catalogues, books, articles, PPTs, or white papers into perfectly organized eBooks. The prime focus of our eBook data entry is to make the electronic book easily accessible without any tussle and trials.
