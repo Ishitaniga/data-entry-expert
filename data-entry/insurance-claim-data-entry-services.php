@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Insurance Claims Data Entry Services Company in India";
+        $page_description = "Get insurance claims data entry services to Data Entry Expert and get access the top quality results, lowest prices and faster outputs.";
+        $page_keywords = "outsourcing insurance claims, data entry of insurance claims, insurance claims data entry services, insurance claims data entry, outsource insurance claims data entry services.";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -32,7 +33,7 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Insurance Data Entry Services</h1>
+                    <b class="display-4 text-white mb-4 animated slideInRight">Insurance Data Entry Services</b>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
@@ -219,7 +220,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">The process to Outsource Insurance Data Entry Services at Data Entry Expert India
+                    <h1 class="text-white mb-4">The Process to Outsource Insurance Data Entry Services at Data Entry Expert India
 	
     </h1>
     <p class="text-light mb-4">Let us look into the series of steps involved in insurance claim data entry services: </p>

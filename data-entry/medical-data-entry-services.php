@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting and Bookkeeping Data Entry Services in India";
-        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
-        $page_description = "We are the best accounting data entry service provider for recording every monetary transaction for ledger maintenance. Outsource bookkeeping data entry services to us for vigorous database creation.";
+        $page_title = "Outsource Medical Data Entry Services & Medical Claims";
+        $page_description = "Outsource medical data entry services to Data Entry Expert; our medical data entry specialist team offers a top quality medical billing, medical records & medical claims data entry services.";
+        $page_keywords = "medical data entry companies, medical data entry specialist, medical data entry, medical data entry services, outsource medical data entry, medical data entry clerk, medical insurance data entry, medical data entry outsourcing, medical coding data entry, medical billing data entry services, medical billing data entry, medical records data entry, medical claims data entry";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

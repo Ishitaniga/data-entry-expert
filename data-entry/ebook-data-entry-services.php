@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Outsource eBook & Book Data Entry Services in India";
+        $page_description = "Outsourcing eBook data entry services enhance online presence for potential customers. Our eBook data entry company will boost your business online existence.";
+        $page_keywords = "eBook Data Entry services,eBook Data Entry,Book Data Entry Service Provider,Book Data Entry,Outsource eBook Data Entry services,eBook Data Entry services in india,affordable eBook Data Entry services,Best eBook Data Entry services,affordable ebook data entry services,outsource ebook data entry, data entry ebook, website ebook data entry,ebook online data entry, best book data entry,outsource ebook data entry services,outsource book data entry services,eBook Data Entry company,online eBook Data Entry company in india,";
+         
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

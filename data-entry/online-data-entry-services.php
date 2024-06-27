@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Online Data Entry Services Company in India";
+        $page_description = "Get online data entry services to Data Entry Expert; we're a leading online data entry service provider company that offers affordable prices, fast & top quality results. ";
+        $page_keywords = "Online Data Entry, Online Data Entry Services, Online Data Entry Company, Online Data Entry India, Online Data Entry Companies in India, Online Data Entry Companies, Online Data Entry Outsourcing Companies";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

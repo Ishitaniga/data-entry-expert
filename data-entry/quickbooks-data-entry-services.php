@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "QuickBooks Data Entry Services Company in India";
+        $page_description = "Data Entry Expert is the leading QuickBooks data entry service provider company in India. We offer result-oriented QuickBooks data entry solutions that fulfill your accounting/financial requirements.";
+        $page_keywords = "QuickBooks data entry services, QuickBooks data entry, Outsource QuickBooks data entry services, Outsource QuickBooks data entry, QuickBooks data entry company";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -32,7 +33,7 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Quickbooks Data Entry Services</h1>
+                    <b class="display-4 text-white mb-4 animated slideInRight">Quickbooks Data Entry Services</b>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>

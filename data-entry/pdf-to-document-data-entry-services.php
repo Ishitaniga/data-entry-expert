@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "PDF Data Entry Services, PDF to Excel & Word Data Entry Services";
+        $page_description = "Outsource PDF to Excel data entry services & PDF to Word data entry services to Data Entry Expert at affordable prices. We offer top-notch results with fast outputs.";
+        $page_keywords = "PDF Data Entry Services, PDF to Excel Data Entry, PDF to Excel Data Entry Services, Excel Data Entry Services, Outsource Excel Data Entry, PDF to Word Data Entry, Data Entry PDF to Word, PDF Data Entry, Data Entry PDF, Data Entry PDF Files, Data Entry in Excel PDF, Data Entry Book PDF, Data Entry Operator PDF, Data Entry CV PDF, Word Data Entry, MS Word Data Entry";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -37,9 +38,9 @@
           <div
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
-            <h1 class="display-4 text-white mb-4 animated slideInRight">
+            <b class="display-4 text-white mb-4 animated slideInRight">
                 PDF to Documents Data Entry Services
-            </h1>
+</b>
             <nav aria-label="breadcrumb">
               <ol
                 class="breadcrumb justify-content-center justify-content-lg-start mb-0"

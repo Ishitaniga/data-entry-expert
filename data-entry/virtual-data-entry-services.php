@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting and Bookkeeping Data Entry Services in India";
-        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
-        $page_description = "We are the best accounting data entry service provider for recording every monetary transaction for ledger maintenance. Outsource bookkeeping data entry services to us for vigorous database creation.";
+        $page_title = "Data Entry Virtual Assistant Services Company in India";
+        $page_description = "Data Entry Expert Team are highly skilled at virtual assistants work, we offer top- notch data entry virtual assistant services. Hire our data entry virtual assistant at affordable prices at $4/hour.";
+        $page_keywords = "Data Entry Virtual Assistant, Data Entry Virtual Assistant Services, Hire Data Entry Virtual Assistant, Virtual Assistants for Data Entry, Data Entry Virtual Assistants, Virtual Assistants Data Entry";
+         
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -249,7 +250,7 @@
                     <p class="mb-4"> Come on board with us with our scalable and unmatchable virtual assistant services!! </p>
 
                     
-                        <br><br>
+                        <br>
                          
                     </p>
                 </div>

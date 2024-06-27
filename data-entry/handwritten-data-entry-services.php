@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Handwritten/Printed Documents Data Entry Services";
+        $page_description = "Outsource handwritten data entry services at Data Entry Expert. to convert your printed documents into digital ones. We offer fast  & affordable handwritten/printed documents data entry services.";
+        $page_keywords = "handwritten data entry, handwritten data entry services, handwritten documents data entry services, handwritten documents data entry, printed documents data entry services, printed documents data entry, outsource handwritten data entry, handwritten data entry companies, handwritten data entry India,handwritten data entry company in India , handwritten data entry company .";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

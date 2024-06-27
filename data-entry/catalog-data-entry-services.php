@@ -5,9 +5,9 @@
 <meta charset="utf-8" />
         <?php 
         $page_title = "Catalog Product Data Entry Services in India at Low Price";
-        $page_keywords = "catalog data entry services, catalog data entry, catalog data entry operator, catalog product data entry, catalog data entry services in india, outsource catalog data entry services,affordable catalog data entry services, catalog data entry company ,outsource catalog data entry company in india,outsource catalog data entry agency, catalog data entry services india,outsource catalog data entry services,Catalog Data Entry Service provider,best Catalog Data Entry Services,affordable Catalog Data Entry Services.";
         $page_description = "Our Catalog data entry service is to provide your product information from online consumers. outsource your catalog data entry services to Data Entry Expert.";
-        ?>
+        $page_keywords = "catalog data entry services, catalog data entry, catalog data entry operator, catalog product data entry, catalog data entry services in india, outsource catalog data entry services,affordable catalog data entry services, catalog data entry company ,outsource catalog data entry company in india,outsource catalog data entry agency, catalog data entry services india,outsource catalog data entry services,Catalog Data Entry Service provider,best Catalog Data Entry Services,affordable Catalog Data Entry Services.";
+         ?>
         <?php include("../includes/header.php"); ?>
 </head>
 

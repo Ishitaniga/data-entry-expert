@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Outsource Image Data Entry Services in India - Data Entry Expert";
-        $page_keywords = "affordable Image Data Entry Services,Outsource Image Data Entry services,Image Data Entry Service Provider,Image Data Entry Company,Image Data Entry Services in India,Best Image Data Entry Services,image to text data entry,image to notepad data entry,image to word data entry,Image data entry company in india, Image data entry agency,outsource Image data entry in india,Image data entry, outsourcing Image data entry,Image data entry service, Image receivable data entry, Image payable data entry,Best Image Data Entry Services,image to text data entry,";
-        $page_description = "We offer image data entry services for image payable, image receivable, image to text or image to notepad, image to excel data entry from image data tagging to image data extraction.";
+        $page_title = "Get affordable Image Data Entry Services";
+        $page_description = "Outsource image data entry services to Data Entry Expert; we offer top quality image to text, image to word, image to excel, image to notepad data entry services at affordable prices.";
+        $page_keywords = "image data entry, image data entry services, outsource image data entry, outsource image data entry services, image to text data entry, image to notepad data entry, image to word data entry";
+ 
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -31,7 +32,7 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Outsource Image Data Entry Services</h1>
+                    <b class="display-4 text-white mb-4 animated slideInRight">Outsource Image Data Entry Services</b>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>

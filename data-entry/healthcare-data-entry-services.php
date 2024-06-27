@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Healthcare Data Entry Services Company in India";
+        $page_description = "Outsource healthcare data entry services to Data Entry Expert we provide healthcare data entry services for healthcare organizations, hospitals, health insurance & medical billing companies.";
+        $page_keywords = "health insurance data entry, healthcare data entry services, healthcare data entry, outsource healthcare data entry, health data entry, healthcare data entry outsourcing, healthcare data entry remote";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Invoice Data Entry Services company in India";
+        $page_description = "Outsource invoice data entry services to Data Entry Expert. We offer top-quality invoice data entry, invoice form data entry, bills data entry, and invoice data entry in excel services.";
+        $page_keywords = "Invoice Data Entry, Data Entry Invoices, Invoice Data Entry Services, Invoice Data Capture Specialist, Invoice Data Entry Outsourcing, Outsource Invoice Data Entry Services, Invoice Data Entry in Excel, Invoice Forms Data Entry Services";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

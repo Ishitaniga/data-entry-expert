@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting and Bookkeeping Data Entry Services in India";
-        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
-        $page_description = "We are the best accounting data entry service provider for recording every monetary transaction for ledger maintenance. Outsource bookkeeping data entry services to us for vigorous database creation.";
+        $page_title = "Offline Data Entry Services Company in India";
+        $page_description = "Get offline data entry services from us; we're a reliable offline data entry company that offers data entry from hard copies of forms, invoices, resumes, etc.";
+        $page_keywords = "Offline Data Entry, Offline Data Entry Services, Offline Data Entry Company, Offline Data Entry India, Offline Data Entry in India, Data Entry Offline";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
@@ -201,12 +202,12 @@
                      <H1>Our Offline Data Entry Workflow</H1>
                     <p class="mb-4">Offline data entry service has its unique workflow. Our company follows it with effort. Here are the steps included in offline data entry services in India: </p>
                     <p class="mb-4">
-                        <P  class="mb-4">Data collection: In the first step of service providing data entry experts collect data to be entered from a vast pool of sources including printed hardcopies, handwritten documents, and scanned images.</P>
-                        <P class="mb-4">Data entry: In the next step collected data is entered into the required client format. Our offline data entry service provider uses advanced technology and utmost expertise to perform this crucial task. </P>
-                        <P class="mb-4">Quality Check- This is an imperative step where the entered data is checked through quality measures. It is significant for every service provider to deliver the data accurately.</P>
-                        <P class="mb-4">Backup of files: In this step, the data files are backed up on the company server for security purposes. </P>
-                        <P class="mb-4">Final database delivery: After successful quality checking, the database is delivered to the client in its required format. For this, we always ensure the specified turnaround time given by the patron. </P>
-                        <P class="mb-4">Feedback and maintenance: Our work does not stop after delivery only. We are open to accepting customer feedback and ready to maintain data accordingly. </P>
+                        <P  class="mb-4"><b>Data collection:</b> In the first step of service providing data entry experts collect data to be entered from a vast pool of sources including printed hardcopies, handwritten documents, and scanned images.</P>
+                        <P class="mb-4"><b>Data entry:</b> In the next step collected data is entered into the required client format. Our offline data entry service provider uses advanced technology and utmost expertise to perform this crucial task. </P>
+                        <P class="mb-4"><b>Quality Check:</b> This is an imperative step where the entered data is checked through quality measures. It is significant for every service provider to deliver the data accurately.</P>
+                        <P class="mb-4"><b>Backup of files:</b> In this step, the data files are backed up on the company server for security purposes. </P>
+                        <P class="mb-4"><b>Final database delivery:</b> After successful quality checking, the database is delivered to the client in its required format. For this, we always ensure the specified turnaround time given by the patron. </P>
+                        <P class="mb-4"><b>Feedback and maintenance:</b> Our work does not stop after delivery only. We are open to accepting customer feedback and ready to maintain data accordingly. </P>
                         <P></P>
                     <!--<ul class="custom-list mb-4">
                         <li> </li><br>

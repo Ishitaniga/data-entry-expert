@@ -5,9 +5,9 @@
 <meta charset="utf-8" />
         <?php 
         $page_title = "Copy-Paste Data Entry Services in India";
-        $page_keywords = "copy paste data entry services, affordable copy paste data entry, outsource copy paste services, data entry copy paste, outsource copy paste, best copy paste services, outsource copy paste data entry services, outsource copy paste data entry,Copy Paste Data Entry company in india,Copy Paste Data Entry company,Copy Paste Data Entry,Outsource Copy Paste Data Entry,Copy Paste Services,Copy Paste Company,Copy Paste Services in india,Copy Paste Service provider,Outsource Copy Paste Services.";
         $page_description = " Outsource copy-paste data entry services to our company. Our professional team provides reliable & best copy-paste services at affordable prices.";
-        ?>
+        $page_keywords = "copy paste data entry services, affordable copy paste data entry, outsource copy paste services, data entry copy paste, outsource copy paste, best copy paste services, outsource copy paste data entry services, outsource copy paste data entry,Copy Paste Data Entry company in india,Copy Paste Data Entry company,Copy Paste Data Entry,Outsource Copy Paste Data Entry,Copy Paste Services,Copy Paste Company,Copy Paste Services in india,Copy Paste Service provider,Outsource Copy Paste Services.";
+         ?>
         <?php include("../includes/header.php"); ?>
 </head>
 

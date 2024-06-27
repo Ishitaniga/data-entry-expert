@@ -4,9 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "eBay Data Entry Services, eBay Listing & Product Upload Services";
+        $page_description = "Outsource eBay product data entry services, eBay product listing services, eBay bulk product upload services to Data entry expert we offer low cost & best quality results.";
+        $page_keywords = "Outsource eBay product data entry services, eBay product listing services, eBay bulk product upload services to Data entry expert we offer low cost & best quality results , eBay Data Entry company in india , eBay Data Entry company";
+     
         ?>
         <?php include("../includes/header.php"); ?>
 </head>

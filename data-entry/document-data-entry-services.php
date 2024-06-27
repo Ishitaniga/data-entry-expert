@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
-        ?>
+        $page_title = "Document Data Entry Services Company in India -Data Entry Expert";
+        $page_description = "Outsource document data entry services to Data Entry Expert for the best quality results, low-cost, fast TAT and wide range of document data entry solutions.";
+        $page_keywords = "document data entry, document data entry services, data entry documents, outsource document data entry services, document data entry solutions , Document Data Entry company in india , Document Data Entry company.";
+         ?>
         <?php include("../includes/header.php"); ?>
 </head>
 

@@ -4,9 +4,9 @@
 <meta charset="utf-8" />
         <?php 
         $page_title = "Outsource Amazon Product Data Entry Services at Low Prices";
-        $page_keywords = "amazon data entry,affordable amazon data entry services,Best data entry amazon,amazon product entry services in india,outsource amazon product data entry services,amazon product data entry,amazon data entry in India,amazon product upload services,amazon bulk product upload,amazon bulk upload,amazon product upload,amazon listing service,amazon listing services,outsource amazon listing,amazon product listing services,amazon product listing service,professional amazon listing service,outsource amazon product listing services India,amazon listing services India,amazon listing services provider,amazon listing services usa,amazon data entry company,amazon data entry agency,Amazon Data Entry Services,amazon product data entry services,Amazon Listing Services,Amazon Product Listing Services,Amazon Product Upload Services,Outsource Amazon Data Entry Services,Amazon Data Entry Services in India,AmazonData Entry Service Provider,";
         $page_description = "Data Entry expert offers affordable Amazon data entry services to enhance your online presence. We ensure precise Amazon data entry service in India.";
-        ?>
+         $page_keywords = "amazon data entry,affordable amazon data entry services,Best data entry amazon,amazon product entry services in india,outsource amazon product data entry services,amazon product data entry,amazon data entry in India,amazon product upload services,amazon bulk product upload,amazon bulk upload,amazon product upload,amazon listing service,amazon listing services,outsource amazon listing,amazon product listing services,amazon product listing service,professional amazon listing service,outsource amazon product listing services India,amazon listing services India,amazon listing services provider,amazon listing services usa,amazon data entry company,amazon data entry agency,Amazon Data Entry Services,amazon product data entry services,Amazon Listing Services,Amazon Product Listing Services,Amazon Product Upload Services,Outsource Amazon Data Entry Services,Amazon Data Entry Services in India,AmazonData Entry Service Provider,";
+         ?>
         <?php include("../includes/header.php"); ?>
 </head>
 <body>

@@ -5,9 +5,9 @@
 <meta charset="utf-8" />
         <?php 
         $page_title = "Accounting and Bookkeeping Data Entry Services in India";
-        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
         $page_description = "We are the best accounting data entry service provider for recording every monetary transaction for ledger maintenance. Outsource bookkeeping data entry services to us for vigorous database creation.";
-        ?>
+        $page_keywords = "affordable Accounting data entry services ,accounting data entry company,outsource accounting data entry in india, outsourcing accounting data entry services, accounting data entry solution, outsourcing bookkeeping data entry, bookkeeping data entry services, Best Accounting Data Entry Services, accounting & bookkeeping data entry services,outsource Accounting data entry company, outsource Accounting data entry services,Accounting data entry service provider,Accounting Data Entry,Accounting Data Entry Services,Affordable bookkeeping data entry services,Bookkeeping data entry services company, Best Bookkeeping data entry services, Outsource";
+          ?>
         <?php include("../includes/header.php"); ?>
 </head>
 

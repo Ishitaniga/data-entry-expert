@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8" />
         <?php 
-        $page_title = "Accounting Data Entry Services";
-        $page_keywords = "home, data entry, services,data entry specialist,data entry operator";
-        $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
+        $page_title = "Affordable Ecommerce Product Data Entry Services at low-cost Price.";
+        $page_description = "Data Entry Expert is a leading eCommerce product data entry services company in India that offers fast & best quality eCommerce data entry services at cost effective prices.";
+        $page_keywords = "Ecommerce Data Entry, Ecommerce Data Entry Services, Data Entry Ecommerce, Ecommerce Data Entry India, Ecommerce Data Entry Company, Ecommerce Product Data Entry Services, Ecommerce Product Data Entry, Ecommerce Product Data Entry India, Product Data Entry Services, Product Data Entry, Product Data Entry Services India, Product Data Entry India, Outsource Product Data Entry, Outsource Ecommerce Data Entry,Ecommerce Data Entry company in india";
+        
         ?>
         <?php include("../includes/header.php"); ?>
 </head>
