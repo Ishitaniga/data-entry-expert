@@ -38,9 +38,14 @@
           <div
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
-            <b class="display-4 text-white mb-4 animated slideInRight">
-                PDF to Documents Data Entry Services
-</b>
+            
+<h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       PDF to Documents Data Entry Services
+                    </h1>
+
             <nav aria-label="breadcrumb">
               <ol
                 class="breadcrumb justify-content-center justify-content-lg-start mb-0"
@@ -49,7 +54,7 @@
                   <a class="text-white" href="index.php">Home</a>
                 </li>
                 <li class="breadcrumb-item">
-                  <a class="text-white" href="#">Data Entry Services</a>
+                  <a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a>
                 </li>
                 <li
                   class="breadcrumb-item text-white active"
@@ -109,9 +114,9 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
                 Tailored PDF and Documents Data Entry Services
-            </h1>
+            </h2>
             <p class="mb-4">
                 Managing a substantial amount of data is a foreseeable requirement for every business irrespective of size. This data mainly comprises various documents and PDF files. So, organizing and inputting them accurately demands considerable time and resources. But the thing is being engaged in this laborious and time-consuming task can be a burden on business hours and budget. You can recover such losses by outsourcing document data entry services to a reliable partner like a Data Entry Expert. 
             </p>
@@ -133,9 +138,9 @@
             class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn"
             data-wow-delay="0.3s"
           >
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
                 Effective Document Data Entry Services Provided by Data Entry Expert!!
-            </h1>
+            </h2>
             <p class="mb-4 text-white">
                 When you outsource our data entry company for document data entry services then you will get numerous benefits from our skilled professionals. We have a global industry presence, new-age technology and substantial experience in improving your workflows and operational efficiency. Here are the best document data entry services you will get: 
             </p>
@@ -234,9 +239,9 @@
       <div class="container py-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
                 Document Data Entry Workflow of Data Entry Expert Company
-            </h1>
+            </h2>
             <p class="mb-4">
                 Our document data entry company has a specific process for document data entry services including PDF to Word data entry services PDF to Excel data entry services and much more. Here are the steps involved:
             </p>
@@ -282,9 +287,9 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
                 Why Choose a Data Entry Expert for Documents and PDF Data Entry Services?
-            </h1>
+            </h2>
             <p class="text-light mb-4">
                 Outsourcing your document data entry to a specialized vendor is a smart decision to utilize your business resources and time. When you pick our data entry company then you will get the benefits of digitized documents for your core business. Plus we will manage your document data entry while keeping your in-house resources dedicated to other crucial activities.
             </p>

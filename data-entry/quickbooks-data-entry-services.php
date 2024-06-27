@@ -33,11 +33,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <b class="display-4 text-white mb-4 animated slideInRight">Quickbooks Data Entry Services</b>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Quickbooks Data Entry Services
+                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Quickbooks Data Entry Services</li>
                         </ol>
                     </nav>
@@ -80,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Simplify Your Accounting Process with QuickBooks Data Entry Service!!</h1>
+                    <h2 class="mb-4">Simplify Your Accounting Process with QuickBooks Data Entry Service!!</h2>
                     <p class="mb-4">To keep track of daily financial transactions numerous corporate businesses use the accounting program QuickBooks. If you are one of them then you must know that organizing your accounting information for easy maintenance and use is necessary enough. For such operations, you need to do QuickBooks data timely. It may be a tedious and expensive activity because you need to employ some in-house operators to do such entries from time to time. Or you can outsource QuickBooks data entry services to help your company to systematize your monetary records. In today's digital era to stay ahead in the global market outsourcing is the best idea to track your spending, and report generation. </p>
 
                     <p class="mb-4">On the other side, if you depend on your internal staff for QuickBooks data entry, it’s time-consuming and leaves you with less time to focus on more essential backend tasks. They're getting assistance from a QuickBooks data entry service provider will be resourceful for you. Our team of data entry experts provides data entry services accurately, professionally and meticulously. In addition to offering tailored data entry delivery options, we use affordable, scalable, adaptable, and time-saving for a wide range of business fields and industries.</p>
@@ -98,7 +105,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Outsource QuickBooks Data Entry Services by Data Entry Expert</h1>
+                    <h2 class="text-white mb-4">Outsource QuickBooks Data Entry Services by Data Entry Expert</h2>
                     <p class="text-light mb-4">Are you trying to figure out how to manage your QuickBooks data entry better, functional and error-free including sales, inventory and detailed customer information? Then come onboard with us for quick and affordable QuickBooks data entry services. A data entry expert is the company to more effectively manage your company's expenses, finances, as well as transaction reporting. You are invited to receive high-quality and hassle-free QuickBooks data entry services in India from our devoted and up-to-date experts. </p>
                     <h4 class="text-light mb-4">Transaction Data Entry</h4>
                     <p class="text-light mb-4">This service is to record daily transactions in your QuickBooks including your business sales, purchases, payments, and receipts.</p>
@@ -180,7 +187,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">QuickBooks data entry workflow to elevate your data management!!</h1>
+                    <h2 class="mb-4">QuickBooks Data Entry Workflow to Elevate your Data Management!!</h2>
 
                     <h4 class=" mb-4">Start Conversation</h4>
                     <p class=" mb-4">Our experts have a dialogue with your company staff to get the details.</p>
@@ -219,7 +226,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
 
-                    <h1 class="text-white mb-4">Benefits of Outsource QuickBooks Data Entry Services to Data Entry Expert </h1>
+                    <h2 class="text-white mb-4">Benefits of Outsource QuickBooks Data Entry Services to Data Entry Expert </h2>
                     <p class="text-white mb-4">Data Entry Expert is the best and most affordable QuickBooks data entry service provider in India. Businesses rely on the following benefits for boosting their business operations. </p>
 
                     <h4 class="text-light mb-4">Budget Control</h4>

@@ -33,11 +33,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Offline Data Entry Services</h1>
+                    
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                      Offline Data Entry Services                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Offline Data Entry Services</li>
                         </ol>
                     </nav>
@@ -80,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Offline Data Entry Services at Data Entry Expert</h1>
+                    <h2>Offline Data Entry Services at Data Entry Expert</h2>
                     <p class="mb-4">Modern business processes are dominated by digital technology, so every company either small or big relies upon digitized data entry services. However, today also a significant amount of business data is being generated in non-digital form. Most of the documents such as manual invoices, forms, insurance claims, and other paper records are rich sources of data for enhancing business productivity. Somehow you as a business person have to fall back on offline data entry services to process required information from such data sources. </p>
 
                     <p class="mb-4">Our services include a range of offline data entry services including processing of bills, receipts, invoices, and others. We collect the data from diverse documents and then organize them in an easily accessible format. Our data entry service ensures its optimum usage without even hiring extra staff. The best part is that by selecting our company for outsourcing offline data entry service you can save the time and resources of the in-house for your other important business goals.</p>
@@ -98,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">An Array of Offline Data Entry Services by Data Entry Experts Include:</h1>
+                    <h2 class="text-white mb-4">An Array of Offline Data Entry Services by Data Entry Experts Include:</h2>
                     
 
 
@@ -198,8 +204,8 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                     <H1>Our Offline Data Entry Workflow</H1>
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
+                     <h2>Our Offline Data Entry Workflow</h2>
                     <p class="mb-4">Offline data entry service has its unique workflow. Our company follows it with effort. Here are the steps included in offline data entry services in India: </p>
                     <p class="mb-4">
                         <P  class="mb-4"><b>Data collection:</b> In the first step of service providing data entry experts collect data to be entered from a vast pool of sources including printed hardcopies, handwritten documents, and scanned images.</P>
@@ -230,7 +236,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why Choose Data Entry Exert For Offline Data Entry Services?</h1>
+                    <h2 class="text-white mb-4">Why Choose Data Entry Exert For Offline Data Entry Services?</h2>
                     <p class="text-light mb-4">As there are numerous benefits of outsourcing offline data entry services in the global market hence ample offline data entry service providers. But to get a quality service at affordable rates you need to consider a data entry expert company as your outsourcing partner. Here are some of the benefits, you gain with us: </p>
 
                       <ul class="custom-list mb-4">

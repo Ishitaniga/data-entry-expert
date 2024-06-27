@@ -29,11 +29,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Amazon Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                      Amazon Data Entry Services
+                    </h1>
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Amazon Data Entry Services</li>
                         </ol>
                     </nav>
@@ -76,8 +82,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Outsource Amazon Product Data Entry Services</h1><br>
-                    <p class="mb-4">For effective online sales on Amazon products, the data entry
+                    <h2>Outsource Amazon Product Data Entry Services</h2><br>
+                                       <p class="mb-4">For effective online sales on Amazon products, the data entry
                         service plays a significant role. On Amazon's eCommerce platform, they have
                         to deal with several categories including fashion, clothing, furniture,
                         grocery, footwear, etc. At the Amazon store, there are thousands of product
@@ -108,7 +114,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Services offered by data entry expert service providers?</h1>
+                    <h2 class="text-white mb-4">Services Offered by Data Entry Expert Service Providers?</h2>
                     <p class="text-light mb-4">Data entry expert is offering Amazon listing services for
                         e-commerce businesses worldwide. Our services include product data entry,
                         attribute management, product catalogue management and Amazon listing services.
@@ -160,7 +166,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Our Process for Amazon Product Listing Data Entry!!</h1>
+                    <h2 class="mb-4">Our Process for Amazon Product Listing Data Entry!!</h2>
                     <p class="mb-4">When we process your Amazon product data entry then you can rely on us for all your data. You can concentrate on other core business processes. Here is the process for an Amazon data entry service provider: </p>
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
@@ -210,7 +216,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Major Benefits to Outsource Amazon Data Entry Services</h1>
+                    <h2 class="text-white mb-4">Major Benefits to Outsource Amazon Data Entry Services</h2>
                     <p class="text-light mb-4">Amazon is the top online shopping partner in terms of e-commerce. To run such a large online shopping platform, all the backend services must be much more efficient for a valuable business workflow. Amazon's data entry service is one of the major back office work. If you want smooth access to your business you must outsource Amazon data entry service to a Data entry expert company in India for the following reasons: </p>
                     <ul class="text-white custom-list mb-4">
                         <li><u>Professional Expertise</u> - We have a specialized team of data entry operators to work on Amazon data entry.</li><br>

@@ -38,9 +38,13 @@
           <div
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
-            <h1 class="display-4 text-white mb-4 animated slideInRight">
-              Ecommerce Data Entry Services
-            </h1>
+          <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                      Ecommerce Data Entry Services
+                    </h1>
+ 
             <nav aria-label="breadcrumb">
               <ol
                 class="breadcrumb justify-content-center justify-content-lg-start mb-0"
@@ -49,7 +53,7 @@
                   <a class="text-white" href="index.php">Home</a>
                 </li>
                 <li class="breadcrumb-item">
-                  <a class="text-white" href="#">Data Entry Services</a>
+                  <a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a>
                 </li>
                 <li
                   class="breadcrumb-item text-white active"
@@ -109,9 +113,9 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
               Enhance Your Online Status with E-commerce Data Entry Services
-            </h1>
+            </h2>
             <p class="mb-4">
               Data Entry Expert is proudly and diligently serving its data entry
               services to global clients. With its reliable and thriving
@@ -147,10 +151,10 @@
             class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn"
             data-wow-delay="0.3s"
           >
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
               Professional E-commerce Data Entry Services Provided By Data Entry
               Expert!!
-            </h1>
+            </h2>
             <p class="text-light mb-4">
               With our extensive expertise, our company offers end-to-end
               e-commerce data entry services enabling streamlined and proficient
@@ -254,10 +258,10 @@
       <div class="container py-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
               E-commerce marketplace and platforms supported by Data Entry
               Expert!!
-            </h1>
+            </h2>
             <p class="mb-4">
               Data Entry Expert is a specialized e-commerce data entry company
               that is highly experienced in optimizing your product information
@@ -340,9 +344,9 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
               Process We Follow In Our E-commerce Data Entry Service Company!!
-            </h1>
+            </h2>
             <p class="text-light mb-4">
               With the assistance of our affordable eCommerce data entry
               services, your products are being uploaded to your site and
@@ -421,9 +425,9 @@
         <div class="container py-5">
           <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-              <h1 class="mb-4">
-                Accelerate your online sales with our e-commerce data entry services 
-              </h1>
+              <h2 class="mb-4">
+                Accelerate your Online Sales with our e-commerce Data Entry Services 
+              </h2>
               <p class="mb-4">
                 When you get an experienced and improved service for your ecommerce site at affordable rates then the time is to expand your business. Here are plenty of other benefits that your business will get with our e-commerce product data entry service. Our data entry experts leverage advanced tools and technologies to deliver flawless data entry outcomes with fast turnaround times. Let us show you how partnering with our data entry company to improve your online customer base and your profitability. Key advantages of outsourcing e-commerce data entry services to data entry experts include:
               </p>

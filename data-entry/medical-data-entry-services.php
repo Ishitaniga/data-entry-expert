@@ -35,11 +35,18 @@
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
                      
                     
-                    <b class="display-4 text-white mb-4 animated slideInRight">Medical Data Entry Services</b>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Medical Data Entry Services
+                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Medical Data Entry Services</li>
                         </ol>
                     </nav>
@@ -82,7 +89,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Convert your Medical Data into Electronic Records</h1>
+                    <h2>Convert your Medical Data into Electronic Records</h2>
                     <p class="mb-4">Hospitals and other healthcare centres generate substantial volumes of data. They have to create a database for all patient admissions, their chart details, their treatments, account information, insurance claim plans, medical billing, medical diagnosis, doctor's remarks, and settlement records. This all needs to be stored in a specified manner for future use. Digitizing all medical records makes it easily accessible for doctors and other staff members. Plus, it can be useful in streamlining medical operations and rendering better patient care. </p>
 
                     <p class="mb-4">However, maintaining such a large volume of data can be a difficult task. It needs much time and efficiency to make it properly managed. Therefore, the best way to manage all hospital records is to outsource medical data entry services. Data Entry Expert is a medical data entry service provider having adequate experience in providing high-quality medical data entry solutions. We provide our services to several healthcare companies including hospitals, doctor clinics, and pharmaceutical enterprises. </p>
@@ -100,7 +107,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Our Medical Data Entry Outsourcing Services</h1>
+                    <h2 class="text-white mb-4">Our Medical Data Entry Outsourcing Services</h2>
                     <p class="text-light mb-4">We are a company carrying out medical data entry, data capturing, data extraction/mining, as well as data archiving on several types of medical record services.</p>
 
 
@@ -191,8 +198,8 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                     <h1>Step-By-Step-Process Of Medical Data Entry Services</h1>
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
+                     <h2>Step-By-Step-Process Of Medical Data Entry Services</h2>
                     <p class="mb-4">Our medical data entry specialists provide medical data entry remote services with a complete focus on the best solutions for managing your medical data effectively. For completing your data entry project, we use an effective method to ensure that the database is utilized effectively. Moreover, our data entry service technique is HIPAA compliant and helps enhance your hospital and clinical documents' protection. In addition, you will also get transparency in our medical data entry services from start to finish without departing from your healthcare functions. Here are the steps involved in medical data entry services. –</p>
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
@@ -223,7 +230,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why to Choose us to Outsource Medical Data Entry Services?</h1>
+                    <h2 class="text-white mb-4">Why to Choose us to Outsource Medical Data Entry Services?</h2>
                     <p class="text-light mb-4"> Over the past several years, we have completed numerous data entry projects. Our skills have been strengthened by this medical data entry service experience, and we have the required expertise to assist clients with data entry services in various fields. Entrusting us with outsourcing medical data entry services will not only expand your company's operations but also make you able to leverage new technologies for better outputs. Let us delve into the benefits you are going to get with our services: </p>
 
 

@@ -33,11 +33,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">eBay product Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                     eBay product Data Entry Services
+                    </h1>
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">eBay product Data Entry Services</li>
                         </ol>
                     </nav>
@@ -80,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>	Improve your eBay Account with eBay Product Data Entry Services</h1>
+                    <h2>	Improve your eBay Account with eBay Product Data Entry Services</h2>
                     <p class="mb-4">eBay is one of the popular online e-commerce portals. Numerous people love to go shopping through eBay. So, eBay product listing is very important for a business indulging with this platform. Are you one of them? Is maintaining accuracy and consistency across multiple eBay product listings a challenge for you? Or do you feel that you are short on time to list products on your eBay platform? Are you finding product uniformity due to a variation in product size, style, color, or other attributes? This is where you need a trusted partner for your eBay data entry services. We are a trustworthy eBay product listing company to help you manage all such variations along with consistency in product titles, descriptions, and other listing details. 
                     </p>
 
@@ -101,8 +107,8 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                     <h1  class="mb-4">Features and Services you Avail with Our ebay Data Entry Service Company!!</h1>
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
+                     <h2  class="mb-4">Features and Services you Avail with Our ebay Data Entry Service Company!!</h2>
                     <p class="mb-4">Our eBay product data entry company is equipped with talented and highly skilled workers to proffer proficient and efficient eBay product data entry services for your store. Here is the list of services we offer to our clients:</p>
 
                     <h4 class="mb-4">Creating A Title And Description For Your eBay Items</h4>
@@ -133,7 +139,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Product Uploading with Adding Product Images to your eBay product listings</h1>
+                    <h2 class="text-white mb-4">Product Uploading with Adding Product Images to your eBay product listings</h2>
                     <p class="text-light mb-4">We also offer manual uploading of products, if required ensuring full eBay guidelines to compiled with. Plus, adding pictures to your product listing not only gives a more precise idea to your buyers but also distinguishes your listing from other competitors.  Our eBay product upload services in India with images help you increase sales and return on investment. We add the gallery picture and other product-related images with eBay guidelines for image drafting while uploading your products to the store. You have the flexibility to ask for adding watermarks, editing, and cropping to your product photos.  </p>
 
 
@@ -166,7 +172,7 @@
                     <img class="img-fluid" src="../img/feature.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="text-white mb-4" >Our eBay Product Data Entry Service Process</h1>
+                    <h2 class="text-white mb-4" >Our eBay Product Data Entry Service Process</h2>
 
                     <h4 class="text-white mb-4">Initial Consultation with Client</h4>
                     <p class="text-light mb-4">First, our expert operators conduct an initial consultation with clients to understand their outsourcing eBay listing requirements, aims, and expectations. </p>
@@ -207,8 +213,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>
-                    Benefits of Selecting a Data Entry Expert for Outsourcing ebay Listing!!</h1>
+                    <h2>
+                    Benefits of Selecting a Data Entry Expert for Outsourcing ebay Listing!!</h2>
                     <p class="mb-4"> eBay product listing service is significant for improving the visibility of your products on eBay. Here are some other benefits you will see while trying with us:</p>
                     <h4 class="mb-4">Enhance Your Brand Visibility on the eBay platform</h4>
                     <p class="mb-4">Increasing your brand visibility is vital to get a strong customer base and to take your eBay business to new heights. So, when you tie up with our eBay data entry service you can take your eBay marketplace at a global level. Our experts create high-quality eBay product listings with SEO-friendly product content to become popular in the market in the minimum possible time. </p>

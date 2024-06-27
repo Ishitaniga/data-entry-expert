@@ -32,11 +32,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Handwritten Data Entry Services</h1>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                      Handwritten Data Entry Services
+                    </h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Handwritten Data Entry Services</li>
                         </ol>
                     </nav>
@@ -95,7 +101,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Handwritten data entry services by a Data Entry Expert!!</h1>
+                    <h2 class="text-white mb-4">Handwritten data entry services by a Data Entry Expert!!</h2>
                     <p class="text-light mb-4">Information is king in today's digital world. All of the information needs proper management to use it in future. Data entry expert provides printed documents and data entry services to assist your business with data entry, data conversion, and data indexing. More of the concerns such as healthcare and medical, banking and finance, archival quality handwritten text, sales contacts, and more need handwritten data entry services. Our company is an ISO 9001:2014 certified firm providing a variety of data entry services to global clients at affordable rates. Here is the list of services that we provide in our handwritten documents data entry services:</p>
                     <ul class="text-light mb-4">
                         <li>Archival-worthy handwritten data entry services in India</li>
@@ -129,7 +135,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">The process of handwritten data entry services by a Data Entry Expert!!</h1>
+                    <h2 class="mb-4">The process of handwritten data entry services by a Data Entry Expert!!</h2>
                     <p class="mb-4">Our team is a rigorous handwritten data entry service provider and follows a certain process to perform the best-handwritten data entry services:</p>
 
                     <!-- Data Collection Section -->
@@ -172,7 +178,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why data entry expert for printed documents data entry services?</h1>
+                    <h2 class="text-white mb-4">Why data entry expert for printed documents data entry services?</h2>
                     <p class="text-white mb-4">We are the best-handwritten data entry service provider in India. We have gardened an ample base of clients with our variety of data entry services. Here are the benefits you will get when you outsource handwritten data entry services to a data entry expert: </p>
                     <!-- Intelligent Handwritten Document Processing Section -->
                     <h4 class="text-white mb-4">Intelligent Handwritten Document Processing</h4>

@@ -39,9 +39,13 @@
           <div
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
-            <h1 class="display-4 text-white mb-4 animated slideInRight">
-                Invoice Data Entry Services
-            </h1>
+          <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Invoice Data Entry Services
+                    </h1>
+            
             <nav aria-label="breadcrumb">
               <ol
                 class="breadcrumb justify-content-center justify-content-lg-start mb-0"
@@ -110,9 +114,9 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
                 Outsourcing Invoice Data Entry Services-Complete Details
-            </h1>
+            </h2>
             <p class="mb-4">
                 The economy of a business is changing rapidly with new trends, strategies and technology. Businesses depend on individuals for certain tasks like invoice data entry in Excel which can be done with a data entry services company with the help of the latest technology. Every business process generates invoices but lacks invoice management. Invoice data entry services help to maintain firm records for future aspects. Plus, it also allows you to check your old vendor details while going through a bunch of invoice papers.
             </p>
@@ -134,9 +138,9 @@
             class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn"
             data-wow-delay="0.3s"
           >
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
                 Our Invoice Data Entry Services Includes
-            </h1>
+            </h2>
             <ul class="custom-list mb-4 text-white">
                 <li>Outsource invoice data entry service - To Data Entry Expert company and let us take the burden off your hands. We can do this tedious task for you quickly and accurately so you can focus on your other core business tasks.</li>
                 <br>
@@ -210,9 +214,9 @@
       <div class="container py-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
+            <h2 class="mb-4">
                 Data Entry Expert's Invoice Form Data Entry Process Flow
-            </h1>
+            </h2>
             <p class="mb-4">
                 We have online as well as offline invoice data entry options. Plus, we can enter on virtual private networks (VPN). Our tried and tested invoice data entry services  workflow includes:
             </p>
@@ -255,9 +259,9 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
                 Why select a Data entry expert company for invoice data entry services?
-            </h1>
+            </h2>
             <p class="text-light mb-4">
                 We employ a customer-centric outsourcing invoice data entry approach that is always customized to meet your specific business scheduling needs, requirements and budgets. Here is a brief overview of the expertise offered by data entry experts:
             </p>

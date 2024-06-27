@@ -32,11 +32,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Document Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                     Document Data Entry Services
+                    </h1>
+
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page"> Document Data Entry Services</li>
                         </ol>
                     </nav>
@@ -79,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Efficient Document Data Entry Services!!</h1>
+                    <h2>Efficient Document Data Entry Services!!</h2>
                     <p class="mb-4">Every business would be lacking without document creation. It is a necessary part of business processing. Every enterprise needs annual reports, memos, meeting minutes, invoices, survey and research reports, receipts, business contracts, and many more documents. For accurate analysis and easy access, the digitization of corporate data is essential. Thus, using document data entry services is a dire need for every enterprise to increase operational effectiveness. </p>
 
                     <p class="mb-4">For a smooth run of a business data management and data entry company play significant roles. Sometimes it can be difficult to manage all this internally, so outsourcing document data entry service is the best way to prevent data errors. Our company "Data Entry Expert" offers the best document data entry services for all business types and sizes. Our operators help them organize documents into a correct, uniform, standardized, and usable format.</p>
@@ -97,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Document Data Entry Services that We Outsource</h1>
+                    <h2 class="text-white mb-4">Document Data Entry Services that We Outsource</h2>
                     <p class="text-light mb-4">We are the data entry company that is aware of the significance of your important documents and their security. Therefore, we provide the best document data entry services in India with a well-rounded professional team that uses cutting-edge technology. As a result, our clients get high-quality document data entry services. We offer ample of services to our clients including: </p>
 
 
@@ -204,8 +211,8 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                     <h1>Planning and execution of document data entry services</h1>
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
+                     <h2>Planning and Execution of Document Data Entry Services</h2>
                     <p class="mb-4"> </p>
                     <p class="mb-4">
                         <p>Project Planning</p>
@@ -244,7 +251,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4"> Benefits of Outsourcing Document Data Entry Services to Data Entry Experts </h1>
+                    <h2 class="text-white mb-4"> Benefits of Outsourcing Document Data Entry Services to Data Entry Experts </h2>
                     <p class="text-light mb-4"> Enhance your data potential by leveraging our company for industry-specific document data entry services. Data entry expert delivers specialized document data entry services in India to empower your business operations. Plus, we ensure the data precision and competence to make your business grow in the global market. In addition to exceeding the client’s expectations regarding data entry quality, price, scalability, and safety we deliver the best services possible. Here are the benefits you will get when you outsource document data entry services to us- </p>
 
 

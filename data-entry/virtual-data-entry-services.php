@@ -33,11 +33,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Virtual Data Entry Services</h1>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Virtual Data Entry Services
+                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Virtual Data Entry Services</li>
                         </ol>
                     </nav>
@@ -80,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Save your Operating Cost with Virtual Data Entry Services</h1>
+                    <h2>Save your Operating Cost with Virtual Data Entry Services</h2>
                     <p class="mb-4">Are you dealing with a business generating valuable data every day? It is not costly only but also needs special attention. Thus, to outsource data entry virtual assistant services is the right decision. Sometimes, managing data with a dedicated staff can be a nightmare because you need reliable software and secured data storage solutions. Focussing on data entry might divert your staff from the main business objective. This can lead to a loss for any company. 
                     </p>
 
@@ -102,8 +109,8 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
-                    <h1 class="  mb-4">Why Hire a Data Entry Virtual Assistant?</h1>
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
+                    <h2 class="  mb-4">Why Hire a Data Entry Virtual Assistant?</h2>
                     <p class="  mb-4">Data entry is the collection and sorting of business data. It needs advanced software and highly skilled operators to create a useful business database. The role of the Data Entry assistant is to enter and update relevant data to meet business demands. For successful business operations and to enhance business return on investment, all data needs to be properly entered and maintained. You can overcome all the challenges related to bulk data entry with Virtual Data Entry Assistant. So, to increase productivity, place your data management hassles in the skilful hands of a data entry expert company and make your business resilient with a robust data entry process. </p>
 
 
@@ -125,7 +132,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Data Entry Virtual Assistant Services Offered by Data Entry Expert</h1>
+                    <h2 class="text-white mb-4">Data Entry Virtual Assistant Services Offered by Data Entry Expert</h2>
                     <p class="text-light mb-4">Virtual assistant services can solve your productivity challenge with plenty of other benefits. Here are several data entry and marketing virtual assistant services we offer - </p>
 
 
@@ -196,8 +203,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>
-                    Process Followed by Data Entry Virtual Assistant of Data Entry Expert</h1>
+                    <h2>
+                    Process Followed by Data Entry Virtual Assistant of Data Entry Expert</h2>
                     <p class="mb-4">Delegating data analytics functions to our virtual assistants is effortless is progressive. Our data analytics virtual assistant provides a custom solution to clients. The process for outsourcing virtual assistant services is as follows: </p>
 
                      <ul class="custom-list mb-4">

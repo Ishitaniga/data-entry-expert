@@ -29,11 +29,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Catalog Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                     Catalog Data Entry Services
+                    </h1>
+
+                    
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Catalog Data Entry Services</li>
                         </ol>
                     </nav>
@@ -74,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Boost your Sales with Effortless Catalog Data Entry Services</h1>
+                    <h2 class="mb-4">Boost your Sales with Effortless Catalog Data Entry Services</h2>
 
                     <p class="mb-4">
                         Catalogue data entry services are essential for an e-commerce business, especially when dealing with many products. Plus, it helps streamline the sales process by connecting your business product with potential customers. However, the problem is that the creation of an e-commerce store catalogue takes a lot of time. Forming this a business needs to extract data from various sources, including online retailer websites, online records, as well as paper documents. This all required skilled workers and efficient data entry operators.  
@@ -93,7 +100,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Our Best Catalog Data Entry Services</h1>
+                    <h2 class="mb-4">Our Best Catalog Data Entry Services</h2>
                     <p class="mb-4">
                         Data entry expert is the one-stop solution for all types of cataloging processing services for smooth e-commerce business. Our company provides all catalog data entry services starting from fundamentals like product data entry to more complex data entry services including indexing, data mining, catalog conversion, or building catalog. We ensure to provide our best e-commerce catalog management services for satisfying your customers' needs.
                     </p>
@@ -146,7 +153,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
 
-                    <h1 class="text-white mb-4">Data Entry Expert Catalog Data Entry Service Process Flow</h1>
+                    <h2 class="text-white mb-4">Data Entry Expert Catalog Data Entry Service Process Flow</h2>
                     <p class="text-light mb-4">Data Entry Expert employs tried and tested workflow for a hassle-free work transition. Our workflow of catalogue data entry includes the following steps -</p>
                     <ul class="text-white custom-list mb-4">
                         <li>Defining clients' catalog data entry requirements</li><br>
@@ -174,7 +181,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Perks of Choosing a Data Entry Expert for Catalog Data Entry Services</h1>
+                    <h2 class="mb-4">Perks of Choosing a Data Entry Expert for Catalog Data Entry Services</h2>
                     <p class="mb-4">By outsourcing catalogue data entry services to us, you can expect on-time delivery of the project. You can concentrate on your other everyday jobs at the company to expand your e-commerce business. Tying with us will enhance your online presence and sales. Using our services you will get a variety of advantages, such as:</p>
 
                     <h4 class="mb-4">Excellent Infrastructure</h4>

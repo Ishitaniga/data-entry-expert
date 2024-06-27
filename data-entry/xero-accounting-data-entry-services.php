@@ -31,11 +31,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <b class="display-4 text-white mb-4 animated slideInRight">Xero Accounting Data Entry Services</b>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Xero Accounting Data Entry Services
+                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Xero Accounting Data Entry Services</li>
                         </ol>
                     </nav>
@@ -78,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Manage all your financial needs by outsourcing Xero accounting services </h1>
+                    <h2 class="mb-4">Manage all your Financial needs by Outsourcing Xero Accounting Services </h2>
                     <p class="mb-4">Xero is a cloud-based online accounting software to manage accounting and billing for your business. This bookkeeping data entry service has thoroughly embarked on its footprints in the industry. Many of the accounting firms are moving their clients to Xero accounting services which allows them to work more efficiently. The best part is that this software is reachable from mobile devices as well as desktops. It encompasses several ‘add-ons’, the adaptation of which may speed up the accounting-associated processes. </p>
 
                     <p class="mb-4">No matter if you own a stable business concern or have started a new business managing accounts is an overhead process, which takes a lot of time and effort. It also diverts most of your focus from the core business competencies. Thus, to maintain and save proper accounting data, best is to move to Xero accounting software. But the thing is dealing with such software is a complex process. Hence, most businesses rely on outsourcing Xero accounting data entry services to a third party. Data entry expert has been a leading Xero data entry accounting data entry service in India. We have extremely talented accountants and financial professionals for smarter accounting practices to maintain your business accounts. </p>
@@ -96,7 +103,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
 
-                    <h1 class="text-white mb-4">Xero Accounting Services Data Entry Expert Offer</h1>
+                    <h2 class="text-white mb-4">Xero Accounting Services Data Entry Expert Offer</h2>
                     <p class="text-light mb-4">Our company offers Xero accounting services to clients in various sectors like startups, SMEs, or MSMEs. Our certified financial proficients understand your accounting requirements and customize the right financial insights for you. The major services our Xero data entry company provides: </p>
                     <h4 class="text-light mb-4">Migration and Xero Setup</h4>
                     <p class="text-light mb-4">Along with Xero accounting services we do offer Xero setup service for new business. Plus, we also offer migration services when you decide to change your existing accounting platform to a more rigid and robust platform on the cloud.</p>
@@ -160,7 +167,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Xero Accounting Data Entry Process</h1>
+                    <h2 class="mb-4">Xero Accounting Data Entry Process</h2>
                     <p class="mb-4">Being a leading Xero accounting data entry service company, data entry experts proffer standard finance management for any business regardless of size. We have a stringent process flow ensuring delivering great accuracy in our accounting services. </p>
                     <h4 class=" mb-4">Easy Migration to Receive Data Files</h4>
                     <p class=" mb-4">Our data entry professionals assist our clients to migrate to Xero accounting software with ease. We have automated migration tools to transfer your entire data from old software to Xero accounting software.</p>
@@ -193,7 +200,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why choose Data Entry Expert for Outsourcing Xero Data Entry Services Company?</h1>
+                    <h2 class="text-white mb-4">Why Choose Data Entry Expert for Outsourcing Xero Data Entry Services Company?</h2>
                     <p class="text-light mb-4">With our Xero accounting outsourcing services, you can be sure that your account books are in impeccable condition around the year. Here are the benefits of selecting us for your Xero accounting data entry services:</p>
 
                     <h4 class="text-light mb-4">Excellent Talent</h4>

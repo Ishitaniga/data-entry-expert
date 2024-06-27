@@ -39,9 +39,14 @@
           <div
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
-            <h1 class="display-4 text-white mb-4 animated slideInRight">
-              Online data entry services
-            </h1>
+          <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                        Online data entry services
+                    </h1>
+
+            
             <nav aria-label="breadcrumb">
               <ol
                 class="breadcrumb justify-content-center justify-content-lg-start mb-0"
@@ -50,7 +55,7 @@
                   <a class="text-white" href="index.php">Home</a>
                 </li>
                 <li class="breadcrumb-item">
-                  <a class="text-white" href="#">Data Entry Services</a>
+                  <a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a>
                 </li>
                 <li
                   class="breadcrumb-item text-white active"
@@ -110,9 +115,9 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">
-              Raise your business with online data entry services
-            </h1>
+            <h2 class="mb-4">
+              Raise your Business with Online Data Entry Services
+            </h2>
             <p class="mb-4">
             We provide Online Data Entry Services for your business data and products at convenient rates. Business needs numerous kinds of word-driven online data entry including customer support, invoicing, shipping, and much more. In addition, photos and videos might be used for media outlets and advertising purposes. All such data needs to be indexed in proper fields and converted into analysis-ready format. This not only requires data entry speed but accuracy as well. An operator must have a deep knowledge of spelling and punctuation and the ability to spot errors fast. So, for data correctness and to make it flawless outsourcing online data entry services is the best decision for a business of every size.
             </p>
@@ -142,10 +147,10 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h1 class="text-white mb-4">
-              What are the services a data entry expert company offers to
-              clients?
-            </h1>
+            <h2 class="text-white mb-4">
+              What are the Services a Data Entry Expert Company Offers to
+              Clients?
+            </h2>
             <p class="text-light mb-4">
               With vast knowledge and deep experience, Data Entry Expert is an
               online data entry company that offers a variety of specialized
@@ -262,7 +267,7 @@
       <div class="container py-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h1 class="mb-4">Process of online data entry services</h1>
+            <h2 class="mb-4">Process of Online Data Entry Services</h2>
             <div class="d-flex align-items-center mb-3">
               <div
                 class="btn-sm-square bg-white text-primary rounded-circle me-3"
@@ -323,9 +328,9 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h1 class="text-white mb-4">
+            <h2 class="text-white mb-4">
               Online Data Entry Company- Why Choose Data Entry Expert
-            </h1>
+            </h2>
             <p class="text-light mb-4">
               We are living in the 21st Century and it is an online era. Let’s
               start acting like it and get ahead and stay digital! It might be

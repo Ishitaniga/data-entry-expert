@@ -32,11 +32,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Copy Paste Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Copy Paste Data Entry Services
+                    </h1>
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Copy Paste Data Entry Services</li>
                         </ol>
                     </nav>
@@ -79,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Stand apart with outsourcing Copy Paste Data Entry Services to top Service Providers ?</h1>
+                    <h2 class="mb-4">Stand Apart with Outsourcing Copy Paste Data Entry Services to Top Service Providers ?</h2>
                     <p class="mb-4">Copy-paste services are an imperative part of a plethora of business processes such as educational institutions, the banking field and several other organizations all through the world. Storing data securely like addresses, phone numbers, email IDs, etc. is crucial for such companies for smooth functioning. Moreover, this important information needs to be stored in the system for further use. However, copy-paste data entry in bulk is a daunting task to perform well. So, outsourcing copy-paste services to a reliable partner is a good idea. </p>
 
                     <p class="mb-4">We serve quick and bug-free copy-paste data entry solution. Data Entry Expert is the best outsourcing firm offering copy-paste services in India. We also offer our data entry service globally and till now have worked with plenty of customers across countries in the last few years. It has become possible with our highly trained and qualified staff for data entry. Yet this service not only needs manpower but also requires strong process methodologies, security measures, and quality assurance processes. A blend of skilled workers and sturdy techniques make it possible for us to deliver accurate and reliable copy-paste services.</p>
@@ -97,7 +103,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Copy and paste Data Entry Services Provided By Data Entry Expert!</h1>
+                    <h2 class="text-white mb-4">Copy and Paste Data Entry Services Provided By Data Entry Expert!</h2>
                     <p class="text-light mb-4">At Data Entry Expert, we offer a range of copy-paste data entry services, which free up more time and let you focus on your core tasks. Our professionals quickly complete your project ensuring significant cost reduction. Copy-paste services we offer include the following -</p>
 
                     <h4 class="text-white mb-4">Copy Paste Services for Books, Web Content, and other Marketing Material</h4>
@@ -153,7 +159,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Step-by-step procedure to process copy-paste data entry work!</h1>
+                    <h2 class="mb-4">Step-by-step Procedure to Process Copy-Paste Data Entry Work!</h2>
                     <p class="mb-4">Our company starts working after understanding your business requirements completely. Here are the steps of the process of copy-paste service:</p>
                     <p class="mb-4">
                     <h4 class=" mb-4">Data Receiving</h4>
@@ -189,7 +195,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why to Outsource Copy Paste Services to a Data Entry Expert Company?</h1>
+                    <h2 class="text-white mb-4">Why to Outsource Copy Paste Services to a Data Entry Expert Company?</h2>
                     <p class="text-light mb-4">Our data entry expert company is a blend of a powerful workforce and sophisticated technology. All of our professionals are known for their speed and accurate data entry. In addition, they better understand the client's requirements to provide appropriate copy-paste services. That is why we are in leading companies to provide data entry services in India for fulfilling customer needs. Here are the benefits of choosing us as your outsourcing copy-paste data entry partner -</p>
 
                     <h4 class="text-white mb-4">Affordable Services</h4>

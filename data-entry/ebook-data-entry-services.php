@@ -31,11 +31,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">eBook Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                     eBook Data Entry Services
+                    </h1>
+
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">eBook Data Entry Services</li>
                         </ol>
                     </nav>
@@ -78,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Data Entry Expert- eBook Data Entry Services</h1><br>
+                    <h2>Data Entry Expert- eBook Data Entry Services</h2><br>
                     <p class="mb-4">Data entry expert is a name in the global outsourcing perfect eBook data entry services. Many organizations are adopting the facility of eBook data entry services. This becomes essential for managing the reports, guides, or publications effectively.</p>
                     <p class="mb-4">
                     We have an expert team of skilled data entry operators who are well-informed about the conversion of the book from electronic and printed formats. We can convert your printed format into an eBook irrespective of the language. Our data entry experts are specialized in the conversion of several formats including written documents, brochures, catalogues, books, articles, PPTs, or white papers into perfectly organized eBooks. The prime focus of our eBook data entry is to make the electronic book easily accessible without any tussle and trials.
@@ -96,7 +103,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">eBook Data Entry Services Offered By Data Entry Expert</h1>
+                    <h2 class="text-white mb-4">eBook Data Entry Services Offered By Data Entry Expert</h2>
                     <p class="text-light mb-4">Data Entry Expert is one of the finest eBook data entry services in India. Here you will get ample data entry services for your eBook including:</p>
 
                     <h4 class="text-white mb-4">eBook Edits</h4>
@@ -190,7 +197,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Complete Process of eBook data entry services at Data Entry Expert!!</h1>
+                    <h2 class="mb-4">Complete Process of eBook Data Entry Services at Data Entry Expert!!</h2>
                     <p class="mb-4">eBook data entry is to transcribe the book content from hard copies to digital format to make it usable for online readers. Our company is competent to provide dependable results. Here is the complete process: </p>
 
                     <h4 class="mb-4">Collection of Data</h4>
@@ -226,7 +233,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
 
-                    <h1 class="text-white mb-4">Benefits of outsourcing eBook data entry services</h1>
+                    <h2 class="text-white mb-4">Benefits of outsourcing eBook Data Entry Services</h2>
                     <p class="text-light mb-4">As readers are turning towards online reading then the book/ebook data entry work is also increasing nowadays. The authors and publishers also understand the increasing demand of readers and take steps to convert their physical books into digital format. But this work is time-consuming and also needs a lot of concentration and skills. Hence, outsourcing eBook data entry services is the best choice for them. </p>
                     <p class="text-light mb-4">India is a country of skilled personnel to make work easy in every field. Data entry experts have also gardened some of the proficiency to make a perfect data entry team ensuring the best results. Plus, we are also popular for affordable eBook data entry services with the use of resourceful pieces of equipment. Also, our employees work efficiently to complete the project on time. </p>
                     <h4 class="text-white mb-4">Maximizing the usability of content</h4>

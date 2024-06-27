@@ -32,11 +32,18 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <b class="display-4 text-white mb-4 animated slideInRight">Outsource Image Data Entry Services</b>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Outsource Image Data Entry Services
+                    </h1>
+
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Outsource Image Data Entry Services</li>
                         </ol>
                     </nav>
@@ -96,7 +103,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">What Data Entry Expert offers in Image Data Entry Service?</h1>
+                    <h2 class="text-white mb-4">What Data Entry Expert Offers in Image Data Entry Service?</h2>
                     <p class="text-light mb-4">The image data entry services at Data Entry Expert are accomplished by a team of experienced data entry operators. Our professionals use in-house developed software for the best image data entry services ensuring error-free data. Moreover, we have a committed group of quality checkers to re-check the information utilizing ISO 9001: 2015 certified processes. Our captured image data can be keyed into any required format including databases and spreadsheets. We are also experts in performing critical data validation and data cleansing tasks when needed. By outsourcing image data entry services, to a data entry expert, you get the following services:</p>
 
                     <h4 class="text-light mb-4">Capturing Range of Images</h4>
@@ -163,7 +170,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Our Process of Image Data Entry!!</h1>
+                    <h2 class="mb-4">Our Process of Image Data Entry!!</h2>
                     <p class="mb-4">As a data entry expert, you will get affordable image data entry services in less time. We have a simple process of providing image data entry service. After the completion digitized images are sent to the clients through their chosen method including an email attachment, using File Transfer Protocol (FTP) or Dropbox. Here are the stringent quality processes to handle image data entry: </p>
                     <h4 class="mb-4">Discussion with Customer</h4>
                     <p class="mb-4">In the first step of the process, our business development manager gets a brief idea of the image data entry service and other requirements from the customer.</p>
@@ -196,7 +203,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why outsource image data entry services to a data entry expert company?</h1>
+                    <h2 class="text-white mb-4">Why Outsource Image Data Entry Services to a Data Entry Expert Company?</h2>
                     <p class="text-light mb-4">Outsourcing data entry services to data entry experts is beneficial for the efficient operation of your business process. Many other benefits include:</p>
 
                     <h4 class="text-light mb-4">Save Time and Money</h4>

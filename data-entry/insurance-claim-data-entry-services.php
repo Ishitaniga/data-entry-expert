@@ -33,11 +33,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <b class="display-4 text-white mb-4 animated slideInRight">Insurance Data Entry Services</b>
+                     
+                    <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                      Insurance Data Entry Services
+                    </h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Insurance Data Entry Services</li>
                         </ol>
                     </nav>
@@ -80,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>Insurance claim data entry services!!</h1>
+                    <h2>Insurance claim data entry services!!</h2>
                     <p class="mb-4"> The insurance segment is a very significant part of a business and a minor delay can cause loss of business. In most of the cases, users withdraw their insurance policies because of the delay in the claiming process. Even insurance companies are fighting hard to retain customers with faster claims. To simplify and enhance the pace of insurance claims verification companies need to transfer a huge amount of customers' data into proper format. It can be a tedious task as it requires patience, focus and utmost accuracy. Thus, the need for insurance data entry services arises for formatting and aligning the data. The best results will lead to the realisation that outsourcing the insurance claims data entry process is a big assistance in saving time and money. </p>
 
                     <p class="mb-4">Data Entry Expert is a leading and professional insurance claims data entry service provider in India offering a wide range of data entry services including insurance claims services. We have a trained and professional workforce to provide a faster claim process. The process from capturing paper documents to entering them into the database format is done through advanced software solutions and a dedicated team. Our skilled and prolific workers can handle any size of databases effortlessly.</p>
@@ -98,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Catalogue of our Insurance Data Entry Services!!</h1>
+                    <h2 class="text-white mb-4">Catalogue of our Insurance Data Entry Services!!</h2>
                      
 
 
@@ -186,7 +192,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
                      <H1>Formats in which our insurance data entry company deliver the data:</H1>
                 
                     <p class="mb-4">
@@ -220,9 +226,9 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">The Process to Outsource Insurance Data Entry Services at Data Entry Expert India
+                    <h2 class="text-white mb-4">The Process to Outsource Insurance Data Entry Services at Data Entry Expert India
 	
-    </h1>
+    </h2>
     <p class="text-light mb-4">Let us look into the series of steps involved in insurance claim data entry services: </p>
                     <p class="text-light mb-4"> Collect Insurance Claims- Our expert operators collect your company's insurance claims files and discuss data entry requirements with your company. This is necessary to select suitable methods for your insurance data entry work. </p>
 
@@ -251,7 +257,7 @@
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
 
-                    <h1 class="text-white mb-4">Benefits to Partner with Data Entry Expert Company for Insurance Claims Data Entry Services!!</h1>
+                    <h2 class="text-white mb-4">Benefits to Partner with Data Entry Expert Company for Insurance Claims Data Entry Services!!</h2>
                     <p class="text-light mb-4">We are driving suppliers of insurance data processing services for different companies and third-party administrators. We employed a trained group of full-time insurance data entry experts who perfectly capture information from printed insurance claim forms and enter them into a desired database format. Outsourcing insurance claims data entry services to our company in India is beneficial for you in several aspects:  </p>
 
                     <p class="mb-4">

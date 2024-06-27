@@ -32,11 +32,17 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Accounting Data Entry Services</h1>
+                <h1 class="mb-4 text-white" style="
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+                            'Trebuchet MS', sans-serif;
+                            ">
+                       Accounting Data Entry Services
+                    </h1>
+                     
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
                             <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Data Entry Services</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Accounting Data Entry Services</li>
                         </ol>
                     </nav>
@@ -104,7 +110,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Why Choose to Outsource Accounting and Bookkeeping Data Entry Services ?</h1>
+                    <h2 class="text-white mb-4">Why to Outsource Accounting and Bookkeeping Data Entry Services ?</h2>
                     <p class="text-light mb-4">Recording all accounting data entry tasks of a company like all revenue
                         and expenses to stay on top of your business’s financial health is essential to stand
                         in the global market. A business concern must keep track of cash flow, that is where your
@@ -175,7 +181,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <!-- <h1 class="mb-4">lorem ipsum</h1> -->
+                    <!-- <h2 class="mb-4">lorem ipsum</h2> -->
                     <p class="mb-4">We work with you attentively to establish and manage workflow and bookkeeping data entry services. This data entry service in India is to incorporate all your business revenue and expense items. Based in India, our company is a top and reliable global outsourcing accounting data entry partner with the latest technology. At Data Entry Experts, we help you level up your business intelligence with account accuracy and insights!</p>
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
@@ -202,7 +208,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">The Process We Follow For Accounting and Bookkeeping Data Entry Service</h1>
+                    <h2 class="text-white mb-4">The Process We Follow For Accounting and Bookkeeping Data Entry Service</h2>
                     <p class="text-light mb-4">Data Entry Expert is a globally recommended and ISO
                         9001:2015 certified outsourcing data entry service company offering
                         revolutionary accounting data entry solutions all through the world
@@ -274,8 +280,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1>
-                    Benefits Of Outsourcing Accounting Data Entry Services to Data Entry Experts in India</h1>
+                    <h2>
+                    Benefits of Outsourcing Accounting Data Entry Services to Data Entry Experts in India</h2>
                     <p class="mb-4">Accounting documents and bookkeeping require accurate and
                         precise data entry records to get the maximum return on your investment.
                         Accounting is the only part of the business to track income and expenditures,
