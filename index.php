@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <?php
@@ -17,8 +16,8 @@
             /* Adjust this value as needed */
         }
     </style>
+    <link rel="canonical" href="https://dataentryexpert.com/"/>
 </head>
-
 <body>
     <?php include("includes/navbar.php"); ?>
     <!-- Hero Start -->
@@ -105,12 +104,12 @@
                 </div>
                 <!-- Right Text -->
                 <div class="col-lg-6 wow animate__animated animate__slideInRight" data-wow-delay="0.5s">
-                    <h1 class="mb-4 text-dark" style="
+                    <h2 class="mb-4 text-dark" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Comprehensive data entry <br> services to our clients
-                    </h1>
+                    </h2>
                     <p class="mb-4 text-dark" style="
                             text-align: justify;
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
@@ -136,12 +135,12 @@
 
             <div class="row g-5 hero-header ">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow animate__animated animate__fadeInLeft" data-wow-delay="0.3s">
-                    <h1 class="mb-4 text-white" style="
+                    <h2 class="mb-4 text-white" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Our dedicated outsource <br> services include
-                    </h1>
+                    </h2>
 
                     <ul class="custom-list mb-4 text-white" style="
                             text-align: justify;
@@ -202,12 +201,12 @@
                 <div class="col-lg-6 wow animate__animated animate__slideInLeft" data-wow-delay="0.5s">
                     <br /><br />
 
-                    <h1 class="mb-4 text-dark" style="
+                    <h2 class="mb-4 text-dark" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Why Choose Data Entry Expert<br>Company For Data Entry India
-                    </h1>
+                    </h2>
 
                     <p class="mb-4 text-dark" style="
                             text-align: justify;
@@ -233,12 +232,12 @@
                 </div>
                 <!-- Right Text -->
                 <div class="col-lg-6 wow animate__animated animate__slideInRight" data-wow-delay="0.5s">
-                    <h3 class="mb-4 text-dark" style="
+                    <h2 class="mb-4 text-dark" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Here are the reasons why you must select a data entry expert company to enter your data into the database.
-                    </h3>
+                    </h2>
                     <ul class="text-dark custom-list mb-4" style="
                             text-align: justify;
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
@@ -286,7 +285,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
                     <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Our Services</div>
-                    <h1 class="mb-4">Key service segments of our company!!</h1>
+                    <h2 class="mb-4">Key service segments of our company!!</h2>
                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
                         amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
                         clita duo justo et tempor eirmod magna dolore erat amet</p>
@@ -388,7 +387,7 @@
     <div class="container-fluid bg-light py-5">
         <div class="container py-5">
             <div class="mx-auto text-center wow animate__animated animate__slideInLeft" data-wow-delay="0.1s" style="max-width: 100%; overflow: hidden;">
-                <h1 class="mb-4 text-dark" style="
+                <h2 class="mb-4 text-dark" style="
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         display: inline-block;
         white-space: nowrap;
@@ -396,7 +395,7 @@
         text-overflow: ellipsis;
     ">
                     We offer a specialized data entry service along with plenty of <br>data conversion solutions
-                </h1>
+                </h2>
             </div>
 
 
@@ -461,12 +460,12 @@
         <div class="container pt-5">
             <div class="row g-5 hero-header">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="text-white mb-4" style="
+                    <h2 class="text-white mb-4" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
                             'Trebuchet MS', sans-serif;
                             ">
                         Our Statistics
-                    </h1>
+                    </h2>
                     <div class="row g-4 pt-3">
                         <div class="col-sm-6 wow animate__animated animate__slideInLeft" data-wow-delay="0.3s">
                             <div class="d-flex rounded p-3" style="background: rgba(256, 256, 256, 0.1)">
@@ -544,12 +543,12 @@
                 <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">
                     Popular FAQs
                 </div>
-                <h1 class="mb-4" style="
+                <h2 id="faq" class="mb-4" style="
                         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
                         sans-serif;
                         ">
                     Frequently Asked Questions
-                </h1>
+                </h2>
             </div>
             <p class="mb-4 text-dark text-center">
                 We have some of the frequently asked questions by the clients and companies who outsource data entry services to us, if you do not find your questions and have any queries regarding the data entry services please feel free to contact us.

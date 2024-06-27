@@ -5,6 +5,7 @@
         $page_keywords = "home, data entry, services";
         ?>
     <?php include("includes/header.php"); ?>
+    <link rel="canonical" href="https://www.dataentryexpert.com/about.php" />
     <style>
         @keyframes slide-in {
     from {
@@ -64,7 +65,7 @@
                 <h1 class="display-4 text-white mb-4 animated slideInRight">About Us</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
-                        <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a class="text-white" href="https://www.dataentryexpert.com">Home</a></li>
                         <!-- <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li> -->
                         <li class="breadcrumb-item text-white active" aria-current="page">About Us</li>
                     </ol>
@@ -112,7 +113,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">About Us</div> -->
-                    <h1 class="mb-4">About Om Data Entry India</h1>
+                    <h2 class="mb-4">About Data Entry Expert</h2>
                     
                     <p class="mb-4">
                         Founded by Anita Khatavkar in Ahmedabad, Gujarat, Data Entry Expert is an umbrella website of Om Data Entry India which is an ISO 9001:2015 certified outsourcing company in India. Being a leading global data entry outsourcing company delivering business solutions for over a decade. We aim to provide the best quality services and fast turnaround to the clients. We have a dedicated and experienced professional team ready to handle your data entry in all fields including healthcare, insurance, finance & accounting. We offer data entry to all business sizes with a reliable staff at significant savings! Moreover, we have ample satisfied customers from various countries across the globe including Italy, New Zealand, Australia, Canada, the US, Brazil, Spain, Germany, Austria, and many more. We use cutting-edge technologies and offer the latest in hardware, software, and trained staff.
@@ -171,7 +172,7 @@
             <div class="row g-5 hero-header">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn " data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h1 class="text-white mb-4">Our Affordable Services</h1>
+                    <h2 class="text-white mb-4">Our Affordable Services</h2>
                     <ul class="mb-4 text-white">
                         <li>Data entry and processing services</li><br>
 
@@ -196,7 +197,7 @@
                     <img class="img-fluid" src="img/feature.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4 text-white">Come on Board with a Data Entry Expert and fulfill your Data Entry 	Requirements!</h1>
+                    <h2 class="mb-4 text-white">Come on Board with a Data Entry Expert and fulfill your Data Entry 	Requirements!</h2>
                     <p class="text-light mb-4">As a premier data entry company in India, Data entry experts own experienced incumbents required for back-office support and data entry services. We emphasize that our team has delivered a lot of projects and ensures our clientele with data entry accuracy, effectiveness, and timely delivery of the project. Our committed team uses an optimistic approach to handle your assignments with a focus on providing the utmost quality.</p>
 
                     <p class="text-light mb-4">Our concerned workforce is a perfect blend of proficiency and support services. We are customary to deal with a variety of data entry projects catalog processing, and all basic level back office support services. We have adequate infrastructure to make separate divisions for diverse services to handle large volumes with a quality result. </p>
@@ -212,7 +213,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Our Focus Points </h1>
+                    <h2 class="mb-4">Our Focus Points </h2>
                     <ul class="text-dark custom-list mb-4">
                         <li>Truthfulness - We provide elevated correctness to our clients for their better business productivity.</li><br>
                         <li>Speedy Delivery - Services completed at Data Entry Expert are delivered within the stipulated timeframe without quality negotiation.</li><br>

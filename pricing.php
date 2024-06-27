@@ -10,6 +10,7 @@
   $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
   $page_keywords = "home, data entry, services";
   ?>
+  <link rel="canonical" href="https://www.dataentryexpert.com/pricing.php" />
   <?php include("includes/header.php"); ?>
 
 </head>
@@ -36,7 +37,7 @@
                 <h1 class="display-4 text-white mb-4 animated slideInRight">Pricing</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
-                        <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a class="text-white" href="https://dataentryexpert.com/">Home</a></li>
                         <!-- <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li> -->
                         <li class="breadcrumb-item text-white active" aria-current="page">Pricing</li>
                     </ol>
@@ -72,7 +73,7 @@
   <!-- Full Screen Search End -->
   <br><br>
   <div class="container">
-    <h1 class="mb-4">Data entry services pricing structure</h1>
+    <h2 class="mb-4">Data entry services pricing structure</h2>
     <p class="mb-4">Our data entry company offers a variety of data entry services such as data mining, data processing and conversion, catalogue management, data collection, typing, transcription, and many more under one roof. Our all-data entry services are professionally rendered with a minimum fuss to add value to your business. Plus, our highly affordable and exceptional services are the best partner for your business's online and offline growth.</p>
     <p class="mb-4">The pricing structure for our data entry services is calculated according to several factors -</p>
     <ul class="mb-4">
@@ -86,7 +87,7 @@
     </ul>
     <p class="mb-4">Although we ensure highly cost-efficient services with our thorough pricing list and many factors. But in certain cases, to meet client preferences specific estimates can only be attained after a close discussion with our data entry executives. </p>
 
-    <h1>Data Entry Services Pricing Plans at Data Entry Expert</h1>
+    <h2>Data Entry Services Pricing Plans at Data Entry Expert</h2>
     <br>
     <p class="mb-4">Have a look at our indicative data entry service prices:</p>
     <table class="table-fill">
@@ -162,7 +163,7 @@
 
   <br><br>
   <div class="container">
-    <h1 class="mb-4">Our Pricing Rate Selection Parameters</h1>
+    <h2 class="mb-4">Our Pricing Rate Selection Parameters</h2>
   <p class="mb-4">Depending upon various factors and customer preferences we offer diverse rate selection parameters that are purely transparent, and include the following - </p>
   <ul class="mb-4">
     <li>Per data Record/ Row/ Line Rate: In this criterion, you pay only for the number of Fields/ Row Headers captured</li>
@@ -175,7 +176,7 @@
   </div>
 
   <div class="container">
-    <h1 class="mb-4">Pricing Disclaimer</h1>
+    <h2 class="mb-4">Pricing Disclaimer</h2>
   <p class="mb-4">Our data entry company ensures that the information published on our website is precise and up to date. We make sincere efforts to keep all information straightforward and transparent along with the pricing rates, offers, and discounts.</p>
   <p class="mb-4">
   Please note that all prices displayed on our site are just indicative. The decision of final project pricing is only taken after considering various factors like project kind, complexity level, skill and required resources, and time allotment for project completion according to contract terms. Prices displayed are subject to approval at the time of fulfillment of project needs, which could result in ups and downs in the quoted price on the website.

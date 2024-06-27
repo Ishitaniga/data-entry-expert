@@ -6,9 +6,9 @@
         $page_title = "Contact Us";
         $page_description = "Welcome to the Home Page of Data Entry Expert, offering the best data entry services.";
         $page_keywords = "home, data entry, services";
-        
         ?>
         <?php include("includes/header.php"); ?>
+        <link rel="canonical" href="https://www.dataentryexpert.com/contact.php" />
     </head>
     <body>
         <!-- Spinner Start -->
@@ -23,7 +23,6 @@
         <?php include("includes/navbar.php"); ?>
         <!-- Navbar End -->
         <!-- Hero Start -->
-
         <div class="container-fluid pt-5 bg-primary hero-main-header mb-5">
         <div class="container pt-5">
         <div class="row g-5 pt-5">
@@ -39,7 +38,6 @@
             </div>
             <div class="col-lg-6 align-self-end text-center text-lg-end">
                 <!-- *********** Here animated image ************ -->
-               
             </div>
         </div>
         </div>
@@ -71,9 +69,9 @@
                     <div class="col-lg-7">
                         <div class="wow fadeIn" data-wow-delay="0.3s">
                             <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 500px;">
-                                <h1 class="mb-4" style="font-family: 'Poppins', sans-serif;">
+                                <h2 class="mb-4" style="font-family: 'Poppins', sans-serif;">
                                     <br>Get In Touch With Us !<br><br>
-                                </h1>
+                                </h2>
                             </div>
                             <form id="contactForm" onsubmit="sendEmail(event); return false;">
                             <div class="row g-3">
@@ -168,8 +166,6 @@
                             </div>
                         </div>
                     </div>
-                    
-                    
                 </div>
                 <br><br>
                 <!-- <div class="map-area mt-5">
