@@ -81,7 +81,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/Handwritten Data Entry Services.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -101,7 +101,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h2 class="text-white mb-4">Handwritten data entry services by a Data Entry Expert!!</h2>
+                    <h2 class="text-white mb-4" style="letter-spacing: -1px">Handwritten data entry services by a Data Entry Expert!!</h2>
                     <p class="text-light mb-4">Information is king in today's digital world. All of the information needs proper management to use it in future. Data entry expert provides printed documents and data entry services to assist your business with data entry, data conversion, and data indexing. More of the concerns such as healthcare and medical, banking and finance, archival quality handwritten text, sales contacts, and more need handwritten data entry services. Our company is an ISO 9001:2014 certified firm providing a variety of data entry services to global clients at affordable rates. Here is the list of services that we provide in our handwritten documents data entry services:</p>
                     <ul class="text-light mb-4">
                         <li>Archival-worthy handwritten data entry services in India</li>

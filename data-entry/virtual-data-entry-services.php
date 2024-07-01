@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h2>Save your Operating Cost with Virtual Data Entry Services</h2>
+                    <h2>Save your Operating Cost with Virtual Data Entry Services</h2><br>
                     <p class="mb-4">Are you dealing with a business generating valuable data every day? It is not costly only but also needs special attention. Thus, to outsource data entry virtual assistant services is the right decision. Sometimes, managing data with a dedicated staff can be a nightmare because you need reliable software and secured data storage solutions. Focussing on data entry might divert your staff from the main business objective. This can lead to a loss for any company. 
                     </p>
 
@@ -204,7 +204,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h2>
-                    Process Followed by Data Entry Virtual Assistant of Data Entry Expert</h2>
+                    Process Followed by Data Entry Virtual Assistant of Data Entry Expert</h2><br>
                     <p class="mb-4">Delegating data analytics functions to our virtual assistants is effortless is progressive. Our data analytics virtual assistant provides a custom solution to clients. The process for outsourcing virtual assistant services is as follows: </p>
 
                      <ul class="custom-list mb-4">

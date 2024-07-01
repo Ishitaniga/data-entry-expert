@@ -78,7 +78,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/Amazon product data entry.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -122,7 +122,7 @@
                         entered is accurate and precise. Our team follows a systematic approach to maintaining
                         Amazon data entry exactness to enhance customer satisfaction. </p>
 
-                    <h3 class="text-white mb-4">Our Comprehensive Amazon Product Data Entry Services</h3>
+                    <h3 class="text-white mb-4" >Our Comprehensive Amazon Product Data Entry Services</h3>
                     <ul class="text-white custom-list mb-4">
                         <li><u>Product Data Entry</u> - Amazon's product data entry service is provided with fast TAT and professional results.</li><br>
                         <li><u>Product Catalog Management</u> - This is also provided with the most competitive and timely to stand apart in the market.</li><br>

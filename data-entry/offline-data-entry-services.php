@@ -82,7 +82,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/offline Data Entry Services.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -206,7 +206,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <h2 class="mb-4">lorem ipsum</h2> -->
                      <h2>Our Offline Data Entry Workflow</h2>
-                    <p class="mb-4">Offline data entry service has its unique workflow. Our company follows it with effort. Here are the steps included in offline data entry services in India: </p>
+                    <p class="mb-4" style="letter-spacing: -1px">Offline data entry service has its unique workflow. Our company follows it with effort. Here are the steps included in offline data entry services in India: </p>
                     <p class="mb-4">
                         <P  class="mb-4"><b>Data collection:</b> In the first step of service providing data entry experts collect data to be entered from a vast pool of sources including printed hardcopies, handwritten documents, and scanned images.</P>
                         <P class="mb-4"><b>Data entry:</b> In the next step collected data is entered into the required client format. Our offline data entry service provider uses advanced technology and utmost expertise to perform this crucial task. </P>

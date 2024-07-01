@@ -82,7 +82,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/insurance claim Data Entry Services.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -104,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h2 class="text-white mb-4">Catalogue of our Insurance Data Entry Services!!</h2>
+                    <h2 class="text-white mb-4" style="letter-spacing: -1px">Catalogue of our Insurance Data Entry Services!!</h2>
                      
 
 
@@ -193,7 +193,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <h2 class="mb-4">lorem ipsum</h2> -->
-                     <H1>Formats in which our insurance data entry company deliver the data:</H1>
+                     <h2>Formats in which our insurance data entry company deliver the data:</h2>
                 
                     <p class="mb-4">
                     <ul class="custom-list mb-4">
@@ -257,7 +257,7 @@
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
 
-                    <h2 class="text-white mb-4">Benefits to Partner with Data Entry Expert Company for Insurance Claims Data Entry Services!!</h2>
+                    <h2 class="text-white mb-4" style="letter-spacing: -2px">Benefits to Partner with Data Entry Expert Company for Insurance Claims Data Entry Services!!</h2>
                     <p class="text-light mb-4">We are driving suppliers of insurance data processing services for different companies and third-party administrators. We employed a trained group of full-time insurance data entry experts who perfectly capture information from printed insurance claim forms and enter them into a desired database format. Outsourcing insurance claims data entry services to our company in India is beneficial for you in several aspects:  </p>
 
                     <p class="mb-4">

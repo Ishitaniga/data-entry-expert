@@ -71,7 +71,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                         <div class="about-img">
-                            <img class="img-fluid" src="../img/about-img.jpg">
+                            <img class="img-fluid" src="../img/Healthcare Data Entry Services.jpg">
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -91,7 +91,7 @@
                 <div class="row g-5">
                     <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                         <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                        <h2 class="text-white mb-4">Healthcare Data Entry Services Data Entry Expert Offer</h2>
+                        <h2 class="text-white mb-4" style="letter-spacing: -1px">Healthcare Data Entry Services Data Entry Expert Offer</h2>
                         <p class="text-light mb-4">Once you outsource healthcare data entry services to us, you can significantly lower the expenses involved in setting up an internal team for healthcare data entry. We always keep our commitment to protect your data confidentiality throughout the project process. Our personalized client support and incorporated facility will our clients to take complete advantage of our best healthcare data entry services. Here are the healthcare data entry services we provide to our clients:  </p>
                         <ul class="text-white custom-list mb-4">
                             <li> Clinical healthcare data entry records</li>
@@ -155,7 +155,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                        <h2 class="mb-4">Why Select a Data Entry Expert For Outsourcing Healthcare Data Entry Services?</h2>
+                        <h2 class="mb-4" style="letter-spacing: -1px">Why Select a Data Entry Expert For Outsourcing Healthcare Data Entry Services?</h2>
                         <p class="mb-4">When you outsource healthcare data entry services to our data entry company we analyze your business requirements through a valid evaluation process. We recognise the datasets to convert them into digital form with accuracy checks. </p>
                         <h4>Certified Healthcare Data Entry Company</h4>
                         <p>We are a promising data entry enterprise whose business practices comply with the regulatory compliances for standardization. We are ISO 9001:2014 certified to handle your healthcare data entry with care and quality.</p>

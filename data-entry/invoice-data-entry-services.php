@@ -54,7 +54,7 @@
                   <a class="text-white" href="index.php">Home</a>
                 </li>
                 <li class="breadcrumb-item">
-                  <a class="text-white" href="#">Data Entry Services</a>
+                  <a class="text-white" href="https://www.dataentryexpert.com/data-entry.php">Data Entry Services</a>
                 </li>
                 <li
                   class="breadcrumb-item text-white active"
@@ -110,11 +110,11 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="about-img">
-              <img class="img-fluid" src="../img/about-img.jpg" />
+              <img class="img-fluid" src="../img/invoice claim Data Entry Services.jpg" />
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h2 class="mb-4">
+            <h2 class="mb-4" style="letter-spacing: -1px">
                 Outsourcing Invoice Data Entry Services-Complete Details
             </h2>
             <p class="mb-4">

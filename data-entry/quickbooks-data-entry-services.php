@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h2 class="mb-4">Simplify Your Accounting Process with QuickBooks Data Entry Service!!</h2>
+                    <h2 class="mb-4" style="letter-spacing: -1px">Simplify Your Accounting Process with QuickBooks Data Entry Service!!</h2>
                     <p class="mb-4">To keep track of daily financial transactions numerous corporate businesses use the accounting program QuickBooks. If you are one of them then you must know that organizing your accounting information for easy maintenance and use is necessary enough. For such operations, you need to do QuickBooks data timely. It may be a tedious and expensive activity because you need to employ some in-house operators to do such entries from time to time. Or you can outsource QuickBooks data entry services to help your company to systematize your monetary records. In today's digital era to stay ahead in the global market outsourcing is the best idea to track your spending, and report generation. </p>
 
                     <p class="mb-4">On the other side, if you depend on your internal staff for QuickBooks data entry, it’s time-consuming and leaves you with less time to focus on more essential backend tasks. They're getting assistance from a QuickBooks data entry service provider will be resourceful for you. Our team of data entry experts provides data entry services accurately, professionally and meticulously. In addition to offering tailored data entry delivery options, we use affordable, scalable, adaptable, and time-saving for a wide range of business fields and industries.</p>
@@ -187,7 +187,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h2 class="mb-4">QuickBooks Data Entry Workflow to Elevate your Data Management!!</h2>
+                    <h2 class="mb-4" style="letter-spacing: -1px">QuickBooks Data Entry Workflow to Elevate your Data Management!!</h2>
 
                     <h4 class=" mb-4">Start Conversation</h4>
                     <p class=" mb-4">Our experts have a dialogue with your company staff to get the details.</p>

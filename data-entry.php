@@ -38,7 +38,7 @@
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb justify-content-center justify-content-lg-start mb-0">
               <li class="breadcrumb-item">
-                <a class="text-white" href="#">Home</a>
+                <a class="text-white" href="index.php">Home</a>
               </li>
               <li class="breadcrumb-item">
                 <a class="text-white" href="#">Data Entry</a>

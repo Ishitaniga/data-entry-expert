@@ -82,7 +82,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/Document data entry service.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -104,7 +104,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h2 class="text-white mb-4">Document Data Entry Services that We Outsource</h2>
+                    <h2 class="text-white mb-4" style="letter-spacing: -1px">Document Data Entry Services that We Outsource</h2>
                     <p class="text-light mb-4">We are the data entry company that is aware of the significance of your important documents and their security. Therefore, we provide the best document data entry services in India with a well-rounded professional team that uses cutting-edge technology. As a result, our clients get high-quality document data entry services. We offer ample of services to our clients including: </p>
 
 

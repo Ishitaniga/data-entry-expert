@@ -109,11 +109,11 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="about-img">
-              <img class="img-fluid" src="../img/about-img.jpg" />
+              <img class="img-fluid" src="../img/e-commerce Data Entry Services.jpg" />
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h2 class="mb-4">
+            <h2 class="mb-4" style="letter-spacing: -1.5px">
               Enhance Your Online Status with E-commerce Data Entry Services
             </h2>
             <p class="mb-4">
@@ -258,7 +258,7 @@
       <div class="container py-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h2 class="mb-4">
+            <h2 class="mb-4" style="letter-spacing: -1.5px">
               E-commerce marketplace and platforms supported by Data Entry
               Expert!!
             </h2>
@@ -425,7 +425,7 @@
         <div class="container py-5">
           <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-              <h2 class="mb-4">
+              <h2 class="mb-4" style="letter-spacing: -2px">
                 Accelerate your Online Sales with our e-commerce Data Entry Services 
               </h2>
               <p class="mb-4">

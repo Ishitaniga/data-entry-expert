@@ -39,11 +39,11 @@
             class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5"
           >
             
+           
 <h1 class="mb-4 text-white" style="
                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
-                            'Trebuchet MS', sans-serif;
-                            ">
-                       PDF to Documents Data Entry Services
+                            'Trebuchet MS', sans-serif,   word-spacing -5px;">
+                       PDF to Document Data Entry Services
                     </h1>
 
             <nav aria-label="breadcrumb">
@@ -110,11 +110,11 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="about-img">
-              <img class="img-fluid" src="../img/about-img.jpg" />
+              <img class="img-fluid" src="../img/pdf to document Data Entry Services.jpg" />
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h2 class="mb-4">
+            <h2 class="mb-4" style="letter-spacing: -1px">
                 Tailored PDF and Documents Data Entry Services
             </h2>
             <p class="mb-4">
@@ -138,7 +138,7 @@
             class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn"
             data-wow-delay="0.3s"
           >
-            <h2 class="text-white mb-4">
+            <h2 class="text-white mb-4" style="letter-spacing: -1px">
                 Effective Document Data Entry Services Provided by Data Entry Expert!!
             </h2>
             <p class="mb-4 text-white">
@@ -287,7 +287,7 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h2 class="text-white mb-4">
+            <h2 class="text-white mb-4" style="letter-spacing: -1px">
                 Why Choose a Data Entry Expert for Documents and PDF Data Entry Services?
             </h2>
             <p class="text-light mb-4">

@@ -115,7 +115,7 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-            <h2 class="mb-4">
+            <h2 class="mb-4" style="letter-spacing: -1.5px">
               Raise your Business with Online Data Entry Services
             </h2>
             <p class="mb-4">
@@ -147,7 +147,7 @@
             data-wow-delay="0.3s"
           >
             <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-            <h2 class="text-white mb-4">
+            <h2 class="text-white mb-4" style="letter-spacing: -1.5 px">
               What are the Services a Data Entry Expert Company Offers to
               Clients?
             </h2>

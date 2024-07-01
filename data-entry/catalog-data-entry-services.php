@@ -181,7 +181,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h2 class="mb-4">Perks of Choosing a Data Entry Expert for Catalog Data Entry Services</h2>
+                    <h2 class="mb-4" style="letter-spacing: -2px">Perks of Choosing a Data Entry Expert for Catalog Data Entry Services</h2>
                     <p class="mb-4">By outsourcing catalogue data entry services to us, you can expect on-time delivery of the project. You can concentrate on your other everyday jobs at the company to expand your e-commerce business. Tying with us will enhance your online presence and sales. Using our services you will get a variety of advantages, such as:</p>
 
                     <h4 class="mb-4">Excellent Infrastructure</h4>

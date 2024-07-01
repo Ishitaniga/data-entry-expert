@@ -82,7 +82,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/eBay Product data.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -139,7 +139,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
                     <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div> -->
-                    <h2 class="text-white mb-4">Product Uploading with Adding Product Images to your eBay product listings</h2>
+                    <h2 class="text-white mb-4" style="letter-spacing: -1px">Product Uploading with Adding Product Images to your eBay product listings</h2>
                     <p class="text-light mb-4">We also offer manual uploading of products, if required ensuring full eBay guidelines to compiled with. Plus, adding pictures to your product listing not only gives a more precise idea to your buyers but also distinguishes your listing from other competitors.  Our eBay product upload services in India with images help you increase sales and return on investment. We add the gallery picture and other product-related images with eBay guidelines for image drafting while uploading your products to the store. You have the flexibility to ask for adding watermarks, editing, and cropping to your product photos.  </p>
 
 

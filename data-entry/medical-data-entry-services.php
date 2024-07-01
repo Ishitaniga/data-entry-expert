@@ -85,11 +85,11 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/medical claim Data Entry Services.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h2>Convert your Medical Data into Electronic Records</h2>
+                    <h2 style="letter-spacing: -1px">Convert your Medical Data into Electronic Records</h2><br>
                     <p class="mb-4">Hospitals and other healthcare centres generate substantial volumes of data. They have to create a database for all patient admissions, their chart details, their treatments, account information, insurance claim plans, medical billing, medical diagnosis, doctor's remarks, and settlement records. This all needs to be stored in a specified manner for future use. Digitizing all medical records makes it easily accessible for doctors and other staff members. Plus, it can be useful in streamlining medical operations and rendering better patient care. </p>
 
                     <p class="mb-4">However, maintaining such a large volume of data can be a difficult task. It needs much time and efficiency to make it properly managed. Therefore, the best way to manage all hospital records is to outsource medical data entry services. Data Entry Expert is a medical data entry service provider having adequate experience in providing high-quality medical data entry solutions. We provide our services to several healthcare companies including hospitals, doctor clinics, and pharmaceutical enterprises. </p>

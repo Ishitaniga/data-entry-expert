@@ -173,6 +173,9 @@ h6,
     overflow: hidden;
 }
 
+
+ 
+
 /* Adjust margin and height for smaller screens */
 @media (max-width: 1200px) {
     .hero-main-header {
