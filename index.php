@@ -472,7 +472,7 @@
                                 <i class="fa fa-users fa-3x text-white"></i>
                                 <div class="ms-3">
                                     <h2 class="text-white mb-0" data-toggle="counter-up">
-                                        1200
+                                        700
                                     </h2>
                                     <p class="text-white mb-0" style="
                                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
@@ -488,7 +488,7 @@
                                 <i class="fa fa-check fa-3x text-white"></i>
                                 <div class="ms-3">
                                     <h2 class="text-white mb-0" data-toggle="counter-up">
-                                        1600
+                                        2500
                                     </h2>
                                     <p class="text-white mb-0" style="
                                             font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
