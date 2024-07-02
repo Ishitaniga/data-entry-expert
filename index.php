@@ -286,9 +286,9 @@
                 <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
                     <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Our Services</div>
                     <h2 class="mb-4">Key service segments of our company!!</h2>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                        amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                        clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-4">	The way of doing business has evolved as we move further on the path of technology and AI. So, businesses are drastically adapting to new trends and changes. With the growth of tech in the market, the importance of data digitization has grown. The evolving market trends are generating a large volume of data for all business sizes as data is the backbone of every business. The requirement of a digital world needs to change the data entry methods from traditional paper documentation to data digitization. 
+	With a massive growth rate in recent years, small to large-scale business processes are becoming less equipped to cater to online data entry. Therefore, offshore data entry services from a reputed outsourcing data entry partner are the best solution. Our company helps to enter data in the database to achieve the graph of success suiting their business needs. We specialize in various data entry segments including data entry, data conversion, and web research. 
+</p>
                     <a class="btn btn-primary rounded-pill px-4" href="">Read More</a>
                 </div>
 
