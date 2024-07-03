@@ -110,7 +110,7 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="about-img">
-              <img class="img-fluid" src="../img/pdf to document Data Entry Services.jpg" />
+              <img class="img-fluid" src="../img/pdf to document data entry services.jpg" />
             </div>
           </div>
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">

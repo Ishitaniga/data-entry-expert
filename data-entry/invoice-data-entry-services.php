@@ -162,7 +162,7 @@
           >
             <img
               class="img-fluid"
-              src="../img/feature.png"
+              src="../img/feature_1.png"
               alt="loading images"
             />
           </div>
@@ -179,7 +179,7 @@
           >
             <img
               class="img-fluid"
-              src="../img/feature.png"
+              src="../img/feature_.png"
               alt="loading images"
             />
           </div>
@@ -293,7 +293,7 @@
           >
             <img
               class="img-fluid"
-              src="../img/feature.png"
+              src="../img/feature_1.png"
               alt="loading images"
             />
           </div>
@@ -310,7 +310,7 @@
             >
               <img
                 class="img-fluid"
-                src="../img/feature.png"
+                src="../img/feature_.png"
                 alt="loading images"
               />
             </div>
@@ -370,7 +370,7 @@
             >
               <img
                 class="img-fluid"
-                src="../img/feature.png"
+                src="../img/feature_1.png"
                 alt="loading images"
               />
             </div>

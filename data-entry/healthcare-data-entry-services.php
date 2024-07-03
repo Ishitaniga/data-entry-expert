@@ -108,7 +108,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                        <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                        <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                     </div>
                 </div>
             </div>

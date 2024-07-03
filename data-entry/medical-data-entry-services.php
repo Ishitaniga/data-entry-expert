@@ -85,7 +85,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/medical claim Data Entry Services.jpg">
+                        <img class="img-fluid" src="../img/medical claim data entry services.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -186,7 +186,7 @@
 
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                 </div>
             </div>
         </div>
@@ -240,7 +240,7 @@
                    <p class="text-light mb-4"><b> Get Perfect Economic Solutions</b>: Our affordable medical data entry services can save you many operational costs related to internal data entry. You can reduce the cost of hiring skilled operators, training them, and other infrastructure costs with our best medical data entry services</p>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                 </div>
             </div>
         </div>
@@ -252,7 +252,7 @@
         <div class="container pt-5">
             <div class="row g-5">
                 <div class="col-lg-6 align-self-end text-center text-md-start wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
 
