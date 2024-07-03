@@ -108,7 +108,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="img/about_data_entry_expert_1.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -131,7 +131,7 @@
                 <div class="container mt-5">
                     <div class="card-container">
                       <div class="card animated-card" id="card1">
-                        <img class="card-img-top" src="a.avif" alt="Card image cap">
+                        <img class="card-img-top" src="img/Our Origin.jpg " alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title">Our Origin</h5>
                           <p class="card-text">As a 10+ years old data entry outsourcing, support, and IT company, Data Entry Expert is the one-stop destination where all your data entry, processing, and analysis needs are met. We are dedicated to empowering your organization with intelligent decision-making capabilities and improved operational efficiency with time, effort, and cost-saving while multiplying your outcomes. We provide 99-95% accuracy with fast TAT. </p>
@@ -141,7 +141,7 @@
                         <i class="bi bi-arrow-right"></i>
                       </div>
                       <div class="card animated-card" id="card2">
-                        <img class="card-img-top" src="c.jfif" alt="Card image cap">
+                        <img class="card-img-top" src="img/Our Vision.jpg" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title">Our Vision</h5>
                           <p class="card-text">
@@ -152,7 +152,7 @@
                         <i class="bi bi-arrow-right"></i>
                       </div>
                       <div class="card animated-card" id="card3">
-                        <img class="card-img-top" src="b.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="img/Our Mission.jpg" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title">Our Mission</h5>
                           <p class="card-text">We aim to invest in people and practices to work for the sustainable, long-term growth of your company by fulfilling all of your service needs. Our services are transparent in all aspects to clients to constantly achieve operational excellence. We use a motivated team of professionals and execute every project with distinction and efficiency. Trust and precision in our main parts of service providing. </p>
@@ -185,7 +185,7 @@
                     <br>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="img/feature.png" alt="">
+                    <img class="img-fluid" src="img/feature_1.png" alt="">
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
         <div class="container pt-5">
             <div class="row g-5 hero-header">
                 <div class="col-lg-6 align-self-end text-center text-md-start wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="img/feature_.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
                     <h2 class="mb-4 text-white">Come on Board with a Data Entry Expert and fulfill your Data Entry 	Requirements!</h2>
@@ -227,7 +227,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="img/Our Focus Points.jpg">
                     </div>
                 </div>
                 </div>

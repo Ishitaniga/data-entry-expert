@@ -178,7 +178,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="../img/about-img.jpg">
+                        <img class="img-fluid" src="../img/Amazon product data entry DEE-2.jpg">
                     </div>
                 </div>
             </div>
