@@ -110,7 +110,7 @@
                     <p class="text-light mb-4">Our experts are trained enough to capture images from every source using image capture technology. The use of advanced technology avoids the chance to lose any vital data. We have a team of experienced image data entry service providers, to capture diverse images as per requirement.</p>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                 </div>
             </div>
         </div>
@@ -120,7 +120,7 @@
         <div class="container pt-5">
             <div class="row g-5">
                 <div class="col-lg-6 align-self-end text-center text-md-start wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
 
@@ -158,7 +158,7 @@
 
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                 </div>
             </div>
         </div>
@@ -220,7 +220,7 @@
 
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_1.png" alt="loading images">
                 </div>
             </div>
         </div>
@@ -230,7 +230,7 @@
         <div class="container pt-5">
             <div class="row g-5">
                 <div class="col-lg-6 align-self-end text-center text-md-start wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="../img/feature.png" alt="loading images">
+                    <img class="img-fluid" src="../img/feature_.png" alt="loading images">
                 </div>
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.5s">
 
